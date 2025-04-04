@@ -1,0 +1,874 @@
+,Brand,Year,Model,Distance_in_k,Fuel_type,Transmission_type,Emi_amount,Area,Prices_in_lakhs
+0, Maruti,2016,Ciaz,83.61k,Petrol,Manual,"11,124"," Garuda Mall, Magrath Road, Bengaluru",5.69 lakh
+1, Maruti,2020,Ciaz,61.12k,Petrol,Manual,"13,196"," Bellahalli, Bengaluru",6.75 lakh
+2, Tata,2022,NEXON,19.30k,Petrol,Manual,"17,036"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",8.95 lakh
+3, Maruti,2018,Vitara,37.18k,Diesel,Auto,"15,418"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",8.10 lakh
+4, Mahindra,2022,Bolero,627.40k,Diesel,Manual,"17,340"," Vaishnavi Sapphire Centre, Yeswanthpur",9.11 lakh
+5, Renault,2020,TRIBER,59.81k,Petrol,Auto,"10,753"," Vaishnavi Sapphire Centre, Yeswanthpur",5.50 lakh
+6, Hyundai,2017,Creta,48.15k,Petrol,Auto,"16,122"," Vaishnavi Sapphire Centre, Yeswanthpur",8.47 lakh
+7, Tata,2021,TIGOR,42.64k,Petrol,Manual,"9,775"," Garuda Mall, Magrath Road, Bengaluru",5.00 lakh
+8, Renault,2021,TRIBER,54.61k,Petrol,Manual,"9,560"," Vaishnavi Sapphire Centre, Yeswanthpur",4.89 lakh
+9, Renault,2018,Kwid,17.34k,Petrol,Auto,"7,683"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.93 lakh
+10, Hyundai,2015,i10,152.70k,Petrol,Manual,"7,341", Gandhi Nagar,3.30 lakh
+11, Renault,2022,TRIBER,36.80k,Petrol,Manual,"13,724"," Bellahalli, Bengaluru",7.02 lakh
+12, Hyundai,2017,Grand,25.97k,Petrol,Manual,"9,384", Nexus Whitefield,4.80 lakh
+13, Tata,2018,TIGOR,68.13k,Petrol,Auto,"9,091"," Bellahalli, Bengaluru",4.65 lakh
+14, Maruti,2015,Swift,57.50k,Petrol,Manual,"10,522"," Vaishnavi Sapphire Centre, Yeswanthpur",4.73 lakh
+15, Tata,2019,Tiago,36.00k,Petrol,Manual,"9,501"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.86 lakh
+16, Maruti,2022,Celerio,38.37k,Petrol,Manual,"9,091"," Bellahalli, Bengaluru",4.65 lakh
+17, Maruti,2015,Wagon,65.27k,Petrol,Auto,"8,586"," Bellahalli, Bengaluru",3.86 lakh
+18, Renault,2016,Kwid,39.13k,Petrol,Manual,"5,024", Gandhi Nagar,2.57 lakh
+19, Maruti,2023,FRONX,9.90k,Petrol,Auto,"16,560"," GT World Mall, Bengaluru",8.70 lakh
+20, Hyundai,2021,NEW,15.94k,Petrol,Auto,"13,705"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",7.01 lakh
+21, Toyota,2021,Glanza,22.08k,Petrol,Auto,"15,418"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",8.10 lakh
+22, Maruti,2020,Baleno,216.81k,Petrol,Manual,"12,844"," Bellahalli, Bengaluru",6.57 lakh
+23, Honda,2021,City,1.16k,Petrol,Manual,"15,171", Gandhi Nagar,7.76 lakh
+24, Hyundai,2016,Creta,41.75k,Petrol,Manual,"14,897", Gandhi Nagar,7.62 lakh
+25, Hyundai,2019,VENUE,29.86k,Petrol,Auto,"16,084", Gandhi Nagar,8.45 lakh
+26, Nissan,2022,MAGNITE,23.23k,Petrol,Auto,"16,179", Nexus Whitefield,8.50 lakh
+27, Maruti,2021,Celerio,8.21k,Petrol,Auto,"8,974", Nexus Whitefield,4.59 lakh
+28, Maruti,2021,S,23.35k,Petrol,Manual,"8,328", Nexus Whitefield,4.26 lakh
+29, Honda,2017,Jazz,23.83k,Petrol,Manual,"10,127"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",5.18 lakh
+30, Maruti,2020,Celerio,57.44k,Petrol,Auto,"10,107"," Garuda Mall, Magrath Road, Bengaluru",5.17 lakh
+31, Hyundai,2021,NEW,35.40k,Petrol,Manual,"15,227", Gandhi Nagar,8.00 lakh
+32, Renault,2020,TRIBER,59.81k,Petrol,Auto,"10,753"," Vaishnavi Sapphire Centre, Yeswanthpur",5.50 lakh
+33, Honda,2018,City,70.99k,Petrol,Manual,"13,529", Nexus Whitefield,6.92 lakh
+34, Hyundai,2016,Grand,82.76k,Petrol,Manual,"7,664", Nexus Whitefield,3.92 lakh
+35, Volkswagen,2021,Polo,047.77k,Petrol,Manual,"15,034", Nexus Whitefield,7.69 lakh
+36, Hyundai,2022,VENUE,17.55k,Petrol,Auto,"18,387", Nexus Whitefield,9.66 lakh
+37, Hyundai,2015,i10,152.70k,Petrol,Manual,"7,341", Gandhi Nagar,3.30 lakh
+38, Tata,2018,TIGOR,68.13k,Petrol,Auto,"9,091"," Bellahalli, Bengaluru",4.65 lakh
+39, Renault,2018,Kwid,17.34k,Petrol,Auto,"7,683"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.93 lakh
+40, Datsun,2016,Redi,52.43k,Petrol,Manual,"4,008", Nexus Whitefield,2.05 lakh
+41, Datsun,2017,Redi,55.54k,Petrol,Manual,"4,770", Gandhi Nagar,2.44 lakh
+42, Maruti,2015,Alto,54.47k,Petrol,Manual,"5,539"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",2.49 lakh
+43, Datsun,2017,Redi,52.54k,Petrol,Manual,"4,888"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",2.50 lakh
+44, Maruti,2015,Alto,62.78k,Petrol,Manual,"5,583"," Vaishnavi Sapphire Centre, Yeswanthpur",2.51 lakh
+45, Renault,2016,Kwid,39.13k,Petrol,Manual,"5,024", Gandhi Nagar,2.57 lakh
+46, Renault,2015,Kwid,63.10k,Petrol,Manual,"5,806"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",2.61 lakh
+47, Datsun,2018,Redi,28.06k,Petrol,Manual,"5,122"," Vaishnavi Sapphire Centre, Yeswanthpur",2.62 lakh
+48, Datsun,2019,Redi,015.88k,Petrol,Manual,"5,239"," GT World Mall, Bengaluru",2.68 lakh
+49, Renault,2017,Kwid,848.81k,Petrol,Manual,"5,239"," Vaishnavi Sapphire Centre, Yeswanthpur",2.68 lakh
+50, Maruti,2014,Alto,22.87k,Petrol,Manual,"7,452"," Bellahalli, Bengaluru",2.83 lakh
+51, Maruti,2016,Alto,76.71k,Petrol,Manual,"5,630"," Vaishnavi Sapphire Centre, Yeswanthpur",2.88 lakh
+52, Honda,2013,Brio,,Petrol,Manual,"9,566"," Bellahalli, Bengaluru",2.88 lakh
+53, Renault,2017,Kwid,70.81k,Petrol,Auto,"5,712"," GT World Mall, Bengaluru",2.92 lakh
+54, Hyundai,2013,i10,142.02k,Petrol,Manual,"9,765"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",2.94 lakh
+55, Maruti,2018,Alto,60.25k,Petrol,Manual,"5,748"," Vaishnavi Sapphire Centre, Yeswanthpur",2.94 lakh
+56, Hyundai,2017,Eon,45.01k,Petrol,Manual,"5,767", Gandhi Nagar,2.95 lakh
+57, Renault,2017,Kwid,071.61k,Petrol,Manual,"5,806"," Vaishnavi Sapphire Centre, Yeswanthpur",2.97 lakh
+58, Renault,2015,Kwid,835.95k,Petrol,Manual,"6,651", Nexus Whitefield,2.99 lakh
+59, Maruti,2018,Alto,47.23k,Petrol,Manual,"5,924"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.03 lakh
+60, Honda,2013,Brio,,Petrol,Manual,"9,566"," Bellahalli, Bengaluru",2.88 lakh
+61, Tata,2017,Tiago,99.56k,Petrol,Manual,"7,605", Gandhi Nagar,3.89 lakh
+62, Hyundai,2016,Creta,98.20k,Petrol,Auto,"14,057"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",7.19 lakh
+63, Honda,2015,City,98.09k,Petrol,Manual,"10,566", Gandhi Nagar,4.75 lakh
+64, Maruti,2017,Baleno,297.98k,Petrol,Manual,"10,323"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",5.28 lakh
+65, Hyundai,2015,Grand,96.34k,Petrol,Manual,"8,208"," Bellahalli, Bengaluru",3.69 lakh
+66, Nissan,2014,Terrano,96.31k,Diesel,Manual,"14,681"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.42 lakh
+67, Maruti,2018,Baleno,296.16k,Petrol,Manual,"11,241"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",5.75 lakh
+68, Honda,2019,Amaze,96.08k,Diesel,Manual,"12,219"," Bellahalli, Bengaluru",6.25 lakh
+69, Maruti,2017,Baleno,396.00k,Diesel,Manual,"12,375"," GT World Mall, Bengaluru",6.33 lakh
+70, Maruti,2017,IGNIS,295.64k,Petrol,Manual,"8,250"," Vaishnavi Sapphire Centre, Yeswanthpur",4.22 lakh
+71, Ford,2016,Ecosport,95.07k,Petrol,Auto,"11,163", Nexus Whitefield,5.71 lakh
+72, Volkswagen,2014,Polo,94.92k,Petrol,Manual,"11,508"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.37 lakh
+73, Maruti,2019,Baleno,294.25k,Petrol,Auto,"12,629", Gandhi Nagar,6.46 lakh
+74, Maruti,2017,Ciaz,92.40k,Petrol,Manual,"11,144"," Bellahalli, Bengaluru",5.70 lakh
+75, Honda,2016,BR,92.05k,Petrol,Auto,"12,414"," Bellahalli, Bengaluru",6.35 lakh
+76, Maruti,2014,Swift,91.96k,Petrol,Manual,"10,744"," Bellahalli, Bengaluru",4.08 lakh
+77, Maruti,2020,Celerio,91.87k,Petrol,Auto,"7,605"," Vaishnavi Sapphire Centre, Yeswanthpur",3.89 lakh
+78, Hyundai,2019,Verna,91.76k,Diesel,Manual,"17,032"," Bellahalli, Bengaluru",8.95 lakh
+79, Honda,2018,Jazz,91.22k,Petrol,Manual,"10,186", Nexus Whitefield,5.21 lakh
+80, Mahindra,2024,XUV300,15.22k,Diesel,Auto,"21,737"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",11.42 lakh
+81, Maruti,2024,FRONX,8.11k,Petrol,Manual,"20,652", Nexus Whitefield,10.85 lakh
+82, Maruti,2024,Alto,12.76k,Petrol,Manual,"9,228"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.72 lakh
+83, Maruti,2024,New,9.89k,Petrol,Auto,"13,607"," Bellahalli, Bengaluru",6.96 lakh
+84, Maruti,2024,Swift,2.64k,Petrol,Auto,"18,749", Gandhi Nagar,9.85 lakh
+85, Tata,2024,PUNCH,6.14k,Petrol,Manual,"15,246"," Bellahalli, Bengaluru",8.01 lakh
+86, Tata,2024,Tiago,6.63k,Petrol,Auto,"13,998"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",7.16 lakh
+87, Maruti,2023,FRONX,9.90k,Petrol,Auto,"16,560"," GT World Mall, Bengaluru",8.70 lakh
+88, Hyundai,2023,Creta,19.50k,Petrol,Manual,"21,204"," Vaishnavi Sapphire Centre, Yeswanthpur",11.14 lakh
+89, Nissan,2023,MAGNITE,29.12k,Petrol,Manual,"12,864"," GT World Mall, Bengaluru",6.58 lakh
+90, Mahindra,2023,BOLERO,21.42k,Diesel,Manual,"19,719", Nexus Whitefield,10.36 lakh
+91, MG,2023,ASTOR,11.71k,Petrol,Auto,"27,942"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",14.68 lakh
+92, Tata,2023,NEXON,22.96k,Petrol,Manual,"23,735", Gandhi Nagar,12.47 lakh
+93, Maruti,2023,Eeco,222.13k,Petrol,Manual,"10,381"," Bellahalli, Bengaluru",5.31 lakh
+94, Hyundai,2023,GRAND,31.44k,Petrol,Manual,"12,219"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",6.25 lakh
+95, Tata,2023,NEXON,29.72k,Petrol,Auto,"20,176"," Bellahalli, Bengaluru",10.60 lakh
+96, KIA,2023,SONET,42.41k,Petrol,Manual,"18,063"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",9.49 lakh
+97, Hyundai,2023,NEW,31.19k,Petrol,Manual,"14,643"," Garuda Mall, Magrath Road, Bengaluru",7.49 lakh
+98, Mahindra,2023,XUV300,18.13k,Petrol,Manual,"15,836", Gandhi Nagar,8.32 lakh
+99, Maruti,2023,Celerio,2.72k,Petrol,Auto,"11,906"," Bellahalli, Bengaluru",6.09 lakh
+100, Hyundai,2011,i20,252.47k,Petrol,Manual,"28,965"," Bellahalli, Bengaluru",3.26 lakh
+101, Hyundai,2013,i10,142.02k,Petrol,Manual,"9,765"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",2.94 lakh
+102, Hyundai,2013,i20,279.63k,Petrol,Manual,"11,584"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.49 lakh
+103, Skoda,2013,Rapid,81.69k,Petrol,Manual,"11,559"," Bellahalli, Bengaluru",3.48 lakh
+104, Volkswagen,2013,Polo,69.77k,Petrol,Manual,"13,280", Gandhi Nagar,4.00 lakh
+105, Honda,2013,Brio,,Petrol,Manual,"9,566"," Bellahalli, Bengaluru",2.88 lakh
+106, Maruti,2013,Wagon,52.28k,Petrol,Manual,"10,994", Nexus Whitefield,3.31 lakh
+107, Hyundai,2013,i10,283.59k,Petrol,Manual,"10,197"," Vaishnavi Sapphire Centre, Yeswanthpur",3.07 lakh
+108, Honda,2013,Brio,34.04k,Petrol,Manual,"10,828"," Bellahalli, Bengaluru",3.26 lakh
+109, Hyundai,2013,i20,32.21k,Petrol,Manual,"16,508"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.97 lakh
+110, Volkswagen,2014,Polo,94.92k,Petrol,Manual,"11,508"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.37 lakh
+111, Maruti,2014,Alto,22.87k,Petrol,Manual,"7,452"," Bellahalli, Bengaluru",2.83 lakh
+112, Hyundai,2014,i20,263.73k,Petrol,Manual,"10,244"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.89 lakh
+113, Maruti,2014,Swift,91.96k,Petrol,Manual,"10,744"," Bellahalli, Bengaluru",4.08 lakh
+114, Hyundai,2014,Xcent,72.82k,Petrol,Auto,"10,507", Gandhi Nagar,3.99 lakh
+115, Hyundai,2014,i20,269.73k,Petrol,Manual,"10,929", Gandhi Nagar,4.15 lakh
+116, Nissan,2014,Terrano,96.31k,Diesel,Manual,"14,681"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.42 lakh
+117, Hyundai,2014,Grand,54.78k,Petrol,Auto,"10,771"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",4.09 lakh
+118, Hyundai,2014,Grand,60.71k,Petrol,Manual,"10,060", Gandhi Nagar,3.82 lakh
+119, Hyundai,2015,i10,152.70k,Petrol,Manual,"7,341", Gandhi Nagar,3.30 lakh
+120, Hyundai,2013,i20,279.63k,Petrol,Manual,"11,584"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.49 lakh
+121, Hyundai,2014,Grand,60.71k,Petrol,Manual,"10,060", Gandhi Nagar,3.82 lakh
+122, Hyundai,2015,Xcent,252.67k,Petrol,Manual,"8,297", Gandhi Nagar,3.73 lakh
+123, Hyundai,2015,Grand,96.34k,Petrol,Manual,"8,208"," Bellahalli, Bengaluru",3.69 lakh
+124, Hyundai,2016,Verna,68.20k,Petrol,Manual,"12,864", Gandhi Nagar,6.58 lakh
+125, Hyundai,2016,Creta,57.97k,Petrol,Auto,"15,494", Nexus Whitefield,8.14 lakh
+126, Hyundai,2016,Elite,251.56k,Petrol,Manual,"10,968"," Garuda Mall, Magrath Road, Bengaluru",5.61 lakh
+127, Hyundai,2016,Grand,56.70k,Petrol,Auto,"8,387", Nexus Whitefield,4.29 lakh
+128, Hyundai,2016,Creta,98.20k,Petrol,Auto,"14,057"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",7.19 lakh
+129, Hyundai,2016,Grand,28.67k,Petrol,Manual,"8,661"," Garuda Mall, Magrath Road, Bengaluru",4.43 lakh
+130, Hyundai,2017,Elite,269.31k,Petrol,Manual,"10,772"," Bellahalli, Bengaluru",5.51 lakh
+131, Hyundai,2017,Xcent,236.86k,Petrol,Auto,"10,049"," Garuda Mall, Magrath Road, Bengaluru",5.14 lakh
+132, Hyundai,2017,Elite,46.74k,Petrol,Manual,"11,926"," Bellahalli, Bengaluru",6.10 lakh
+133, Hyundai,2017,Eon,15.15k,Petrol,Manual,"6,217"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",3.18 lakh
+134, Hyundai,2017,Eon,45.01k,Petrol,Manual,"5,767", Gandhi Nagar,2.95 lakh
+135, Hyundai,2017,Grand,54.73k,Petrol,Auto,"9,834"," Vaishnavi Sapphire Centre, Yeswanthpur",5.03 lakh
+136, Hyundai,2017,Elite,32.15k,Petrol,Manual,"11,124", Gandhi Nagar,5.69 lakh
+137, Hyundai,2018,Grand,31.36k,Petrol,Auto,"11,300"," Vaishnavi Sapphire Centre, Yeswanthpur",5.78 lakh
+138, Hyundai,2018,NEW,48.79k,Petrol,Auto,"8,152"," Bellahalli, Bengaluru",4.17 lakh
+139, Hyundai,2019,Creta,32.29k,Petrol,Auto,"21,090"," Whitefield Main Road, Bhoruka Tech Park, Bengaluru",11.08 lakh
+140, Maruti,2013,Alto,38.21k,Petrol,Manual,"5,829"," Regency Anantam, Dombivli East",1.75 lakh
+141, Maruti,2013,Wagon,76.23k,Petrol,Manual,"7,540"," Kandivali, Mumbai",2.27 lakh
+142, Hyundai,2013,Verna,28.69k,Petrol,Manual,"11,293"," Seawood
+",3.40 lakh
+143, Hyundai,2013,Grand,86.81k,Petrol,Manual,"9,964"," Mulund West, Mumbai 
+",3.00 lakh
+144, Hyundai,2013,i20,286.20k,CNG,Manual,"27,721"," Seawood
+",3.12 lakh
+145, Maruti,2013,Swift,66.66k,Petrol,Manual,"10,463"," Kandivali, Mumbai",3.15 lakh
+146, Hyundai,2013,i20,52.04k,Diesel,Manual,"16,099"," Goregaon, Mumbai",3.42 lakh
+147, Maruti,2013,Wagon,28.91k,CNG,Manual,"23,989"," Goregaon, Mumbai",2.70 lakh
+148, Maruti,2013,Ertiga,35.46k,Diesel,Manual,"25,608"," Goregaon, Mumbai",5.44 lakh
+149, Hyundai,2013,i20,223.56k,Petrol,Manual,"9,821"," Seawood
+",2.96 lakh
+150, Maruti,2014,Wagon,76.48k,Petrol,Manual,"6,741"," Goregaon, Mumbai",2.56 lakh
+151, Volkswagen,2014,Polo,97.25k,Petrol,Manual,"6,715"," Kandivali, Mumbai",2.55 lakh
+152, Maruti,2014,Alto,30.59k,Petrol,Manual,"5,082"," Mulund West, Mumbai 
+",1.93 lakh
+153, Maruti,2014,Swift,29.05k,Petrol,Manual,"9,612"," Kandivali, Mumbai",3.65 lakh
+154, Maruti,2014,Wagon,46.36k,Petrol,Manual,"6,715"," Mulund West, Mumbai 
+",2.55 lakh
+155, Maruti,2014,Swift,99.06k,Petrol,Manual,"8,894"," Kandivali, Mumbai",3.38 lakh
+156, Volkswagen,2014,Polo,78.31k,Petrol,Manual,"8,295"," Kandivali, Mumbai",3.15 lakh
+157, Toyota,2014,Etios,46.39k,Petrol,Manual,"8,558"," Mulund West, Mumbai 
+",3.25 lakh
+158, Toyota,2014,Etios,63.64k,Petrol,Manual,"6,583"," Kandivali, Mumbai",2.50 lakh
+159, Maruti,2014,Ertiga,41.47k,CNG,Manual,"24,243"," Kandivali, Mumbai",5.15 lakh
+160, Hyundai,2017,Elite,88.32k,Petrol,Manual,"9,325"," Goregaon, Mumbai",4.77 lakh
+161, Datsun,2018,Redi,30.33k,Petrol,Manual,"4,203"," Goregaon, Mumbai",2.15 lakh
+162, Maruti,2019,S,47.25k,Petrol,Manual,"6,295"," Kandivali, Mumbai",3.22 lakh
+163, Renault,2018,Duster,77.34k,Petrol,Auto,"11,065"," Seawood
+",5.66 lakh
+164, Maruti,2021,New,057.99k,CNG,Manual,"9,462"," Seawood
+",4.84 lakh
+165, Hyundai,2019,Creta,45.51k,Petrol,Auto,"19,301"," Kandivali, Mumbai",10.14 lakh
+166, Maruti,2013,Alto,38.21k,Petrol,Manual,"5,829"," Regency Anantam, Dombivli East",1.75 lakh
+167, Maruti,2018,Ciaz,44.10k,Petrol,Manual,"10,577"," Mulund West, Mumbai 
+",5.41 lakh
+168, Maruti,2014,Wagon,76.48k,Petrol,Manual,"6,741"," Goregaon, Mumbai",2.56 lakh
+169, Hyundai,2016,Grand,27.62k,Petrol,Manual,"6,232"," Kandivali, Mumbai",3.19 lakh
+170, Maruti,2018,Baleno,261.67k,Petrol,Manual,"9,638"," Mulund West, Mumbai 
+",4.93 lakh
+171, Volkswagen,2014,Polo,97.25k,Petrol,Manual,"6,715"," Kandivali, Mumbai",2.55 lakh
+172, Hyundai,2016,Creta,77.83k,Petrol,Manual,"13,255"," Kandivali, Mumbai",6.78 lakh
+173, Renault,2015,Kwid,833.67k,Petrol,Manual,"4,783"," Mulund West, Mumbai 
+",2.15 lakh
+174, Maruti,2018,Dzire,32.57k,Petrol,Manual,"10,538"," Mulund West, Mumbai 
+",5.39 lakh
+175, Ford,2018,FREESTYLE,56.24k,Petrol,Manual,"8,954"," Goregaon, Mumbai",4.58 lakh
+176, Tata,2022,Tiago,41.01k,Petrol,Auto,"10,068"," Mulund West, Mumbai 
+",5.15 lakh
+177, Maruti,2014,Alto,30.59k,Petrol,Manual,"5,082"," Mulund West, Mumbai 
+",1.93 lakh
+178, Maruti,2013,Wagon,76.23k,Petrol,Manual,"7,540"," Kandivali, Mumbai",2.27 lakh
+179, Hyundai,2018,Verna,77.09k,Petrol,Auto,"14,702"," Kandivali, Mumbai",7.52 lakh
+180, Honda,2017,City,59.98k,Petrol,Auto,"13,138"," Kandivali, Mumbai",6.72 lakh
+181, Honda,2018,WR,90.93k,Diesel,Manual,"12,317"," Mulund West, Mumbai 
+",6.30 lakh
+182, Renault,2018,Duster,77.34k,Petrol,Auto,"11,065"," Seawood
+",5.66 lakh
+183, Maruti,2019,IGNIS,270.21k,Petrol,Manual,"8,485"," Goregaon, Mumbai",4.34 lakh
+184, Maruti,2019,New,013.94k,Petrol,Manual,"8,270"," Mulund West, Mumbai 
+",4.23 lakh
+185, Maruti,2018,Dzire,32.57k,Petrol,Manual,"10,538"," Mulund West, Mumbai 
+",5.39 lakh
+186, Hyundai,2016,Creta,77.83k,Petrol,Manual,"13,255"," Kandivali, Mumbai",6.78 lakh
+187, Maruti,2018,Baleno,261.67k,Petrol,Manual,"9,638"," Mulund West, Mumbai 
+",4.93 lakh
+188, Hyundai,2019,Creta,45.51k,Petrol,Auto,"19,301"," Kandivali, Mumbai",10.14 lakh
+189, Maruti,2018,Ciaz,54.52k,Petrol,Auto,"11,068"," Seawood
+",5.66 lakh
+190, Maruti,2021,New,057.99k,CNG,Manual,"9,462"," Seawood
+",4.84 lakh
+191, Honda,2016,Jazz,31.99k,Petrol,Manual,"7,449"," Mulund West, Mumbai 
+",3.81 lakh
+192, Jeep,2018,Compass,470.44k,Diesel,Manual,"19,415"," Mulund West, Mumbai 
+",10.20 lakh
+193, Maruti,2016,Baleno,224.21k,Petrol,Manual,"8,739"," Seawood
+",4.47 lakh
+194, Tata,2021,ALTROZ,44.63k,Petrol,Manual,"13,744"," Kandivali, Mumbai",7.03 lakh
+195, KIA,2020,SELTOS,20.11k,Petrol,Manual,"18,901"," Mulund West, Mumbai 
+",9.93 lakh
+196, Maruti,2021,Baleno,216.86k,Petrol,Manual,"12,180"," Mulund West, Mumbai 
+",6.23 lakh
+197, Hyundai,2018,Verna,77.09k,Petrol,Auto,"14,702"," Kandivali, Mumbai",7.52 lakh
+198, Maruti,2017,Ertiga,51.34k,CNG,Manual,"15,838"," Seawood
+",7.12 lakh
+199, Mahindra,2017,TUV300,63.95k,Diesel,Manual,"10,166"," Kandivali, Mumbai",5.20 lakh
+200, Maruti,2013,Alto,38.21k,Petrol,Manual,"5,829"," Regency Anantam, Dombivli East",1.75 lakh
+201, Maruti,2014,Alto,30.59k,Petrol,Manual,"5,082"," Mulund West, Mumbai 
+",1.93 lakh
+202, Renault,2016,Kwid,54.98k,Petrol,Manual,"4,101"," Mulund West, Mumbai 
+",2.10 lakh
+203, Datsun,2018,Redi,30.33k,Petrol,Manual,"4,203"," Goregaon, Mumbai",2.15 lakh
+204, Renault,2015,Kwid,833.67k,Petrol,Manual,"4,783"," Mulund West, Mumbai 
+",2.15 lakh
+205, Maruti,2013,Wagon,76.23k,Petrol,Manual,"7,540"," Kandivali, Mumbai",2.27 lakh
+206, Toyota,2014,Etios,63.64k,Petrol,Manual,"6,583"," Kandivali, Mumbai",2.50 lakh
+207, Volkswagen,2014,Polo,97.25k,Petrol,Manual,"6,715"," Kandivali, Mumbai",2.55 lakh
+208, Maruti,2017,Alto,52.28k,Petrol,Manual,"4,985"," Kandivali, Mumbai",2.55 lakh
+209, Maruti,2014,Wagon,46.36k,Petrol,Manual,"6,715"," Mulund West, Mumbai 
+",2.55 lakh
+210, Maruti,2014,Wagon,76.48k,Petrol,Manual,"6,741"," Goregaon, Mumbai",2.56 lakh
+211, Maruti,2013,Wagon,28.91k,CNG,Manual,"23,989"," Goregaon, Mumbai",2.70 lakh
+212, Renault,2018,Kwid,80.91k,Petrol,Auto,"5,376"," Seawood
+",2.75 lakh
+213, Maruti,2018,Alto,50.12k,Petrol,Auto,"5,474"," Kandivali, Mumbai",2.80 lakh
+214, Maruti,2015,Wagon,34.69k,Petrol,Manual,"6,228"," Regency Anantam, Dombivli East",2.80 lakh
+215, Volkswagen,2014,Vento,92.71k,Petrol,Manual,"7,463"," Goregaon, Mumbai",2.83 lakh
+216, Renault,2019,Kwid,876.18k,Petrol,Manual,"5,572"," Mulund West, Mumbai 
+",2.85 lakh
+217, Maruti,2018,Alto,30.94k,Petrol,Manual,"5,572"," Seawood
+",2.85 lakh
+218, Maruti,2014,Wagon,68.74k,CNG,Manual,"13,416"," Regency Anantam, Dombivli East",2.85 lakh
+219, Maruti,2015,Wagon,29.55k,Petrol,Manual,"6,540"," Kandivali, Mumbai",2.94 lakh
+220, Hyundai,2023,ALCAZAR,8.94k,Petrol,Auto,"42,256"," Kandivali, Mumbai",22.20 lakh
+221, Hyundai,2024,Creta,2.93k,Petrol,Auto,"39,134"," Mulund West, Mumbai 
+",20.56 lakh
+222, Mahindra,2022,XUV700,21.70k,Petrol,Auto,"30,512"," Mulund West, Mumbai 
+",16.03 lakh
+223, Tata,2021,Safari,60.72k,Diesel,Auto,"28,819"," Seawood
+",15.14 lakh
+224, Mahindra,2021,Thar,14.44k,Diesel,Auto,"26,210"," Goregaon, Mumbai",13.77 lakh
+225, MG,2021,HECTOR,40.68k,Diesel,Manual,"26,154"," Regency Anantam, Dombivli East",13.74 lakh
+226, Skoda,2021,KUSHAQ,32.87k,Petrol,Auto,"25,315"," Kandivali, Mumbai",13.30 lakh
+227, Skoda,2022,KUSHAQ,18.07k,Petrol,Auto,"24,839"," Seawood
+",13.05 lakh
+228, Skoda,2022,KUSHAQ,17.20k,Petrol,Auto,"22,632"," Mulund West, Mumbai 
+",11.89 lakh
+229, KIA,2020,SELTOS,75.06k,Petrol,Auto,"22,346"," Kandivali, Mumbai",11.74 lakh
+230, Skoda,2021,KUSHAQ,25.04k,Petrol,Manual,"21,489"," Goregaon, Mumbai",11.29 lakh
+231, Tata,2023,NEXON,27.13k,Diesel,Auto,"21,318"," Mulund West, Mumbai 
+",11.20 lakh
+232, Tata,2023,NEXON,16.91k,Diesel,Auto,"20,138"," Regency Anantam, Dombivli East",10.58 lakh
+233, MG,2019,HECTOR,46.36k,Petrol,Manual,"19,986"," Regency Anantam, Dombivli East",10.50 lakh
+234, Jeep,2018,Compass,470.44k,Diesel,Manual,"19,415"," Mulund West, Mumbai 
+",10.20 lakh
+235, MG,2019,HECTOR,49.48k,Petrol,Auto,"19,377"," Regency Anantam, Dombivli East",10.18 lakh
+236, Hyundai,2019,Creta,45.51k,Petrol,Auto,"19,301"," Kandivali, Mumbai",10.14 lakh
+237, Tata,2023,NEXON,13.87k,Petrol,Auto,"19,034"," Goregaon, Mumbai",10.00 lakh
+238, KIA,2021,SELTOS,46.91k,Petrol,Manual,"18,935"," Regency Anantam, Dombivli East",9.95 lakh
+239, KIA,2020,SELTOS,20.11k,Petrol,Manual,"18,901"," Mulund West, Mumbai 
+",9.93 lakh
+240, Hyundai,2024,Creta,2.93k,Petrol,Auto,"39,134"," Mulund West, Mumbai 
+",20.56 lakh
+241, Honda,2024,Amaze,3.55k,Petrol,Auto,"16,331"," Goregaon, Mumbai",8.58 lakh
+242, Maruti,2023,New,4.48k,Petrol,Auto,"11,535"," Goregaon, Mumbai",5.90 lakh
+243, Tata,2024,ALTROZ,4.89k,Petrol,Manual,"15,333"," Goregaon, Mumbai",7.84 lakh
+244, Tata,2023,TIGOR,5.04k,CNG,Manual,"12,414"," Seawood
+",6.35 lakh
+245, Maruti,2017,Swift,6.20k,Petrol,Manual,"8,825"," Goregaon, Mumbai",4.51 lakh
+246, Maruti,2017,Celerio,6.69k,Petrol,Auto,"7,585"," Goregaon, Mumbai",3.88 lakh
+247, Renault,2021,Kwid,7.71k,Petrol,Manual,"7,488"," Goregaon, Mumbai",3.83 lakh
+248, Tata,2023,ALTROZ,8.69k,Petrol,Manual,"15,054"," Mulund West, Mumbai 
+",7.70 lakh
+249, Hyundai,2023,ALCAZAR,8.94k,Petrol,Auto,"42,256"," Kandivali, Mumbai",22.20 lakh
+250, Maruti,2022,IGNIS,9.01k,Petrol,Auto,"11,671"," Goregaon, Mumbai",5.97 lakh
+251, Renault,2023,Kwid,9.18k,Petrol,Auto,"8,895"," Regency Anantam, Dombivli East",4.55 lakh
+252, KIA,2021,SONET,9.30k,Petrol,Manual,"16,636"," Kandivali, Mumbai",8.74 lakh
+253, Hyundai,2015,i10,19.73k,Petrol,Manual,"6,785"," Mulund West, Mumbai 
+",3.05 lakh
+254, Maruti,2018,Baleno,29.79k,Petrol,Manual,"9,697"," Goregaon, Mumbai",4.96 lakh
+255, Maruti,2020,Alto,10.51k,Petrol,Manual,"6,100"," Mulund West, Mumbai 
+",3.12 lakh
+256, Hyundai,2023,EXTER,11.84k,Petrol,Manual,"14,565"," Seawood
+",7.45 lakh
+257, Hyundai,2016,Elite,212.01k,Petrol,Manual,"9,149"," Goregaon, Mumbai",4.68 lakh
+258, Tata,2022,PUNCH,12.35k,Petrol,Manual,"11,828"," Kandivali, Mumbai",6.05 lakh
+259, Tata,2022,ALTROZ,12.71k,Petrol,Auto,"14,917"," Kandivali, Mumbai",7.63 lakh
+260, Hyundai,2024,Creta,2.93k,Petrol,Auto,"39,134"," Mulund West, Mumbai 
+",20.56 lakh
+261, Honda,2024,Amaze,3.55k,Petrol,Auto,"16,331"," Goregaon, Mumbai",8.58 lakh
+262, Maruti,2023,New,4.48k,Petrol,Auto,"11,535"," Goregaon, Mumbai",5.90 lakh
+263, Tata,2024,ALTROZ,4.89k,Petrol,Manual,"15,333"," Goregaon, Mumbai",7.84 lakh
+264, Tata,2023,TIGOR,5.04k,CNG,Manual,"12,414"," Seawood
+",6.35 lakh
+265, Maruti,2017,Swift,6.20k,Petrol,Manual,"8,825"," Goregaon, Mumbai",4.51 lakh
+266, Maruti,2017,Celerio,6.69k,Petrol,Auto,"7,585"," Goregaon, Mumbai",3.88 lakh
+267, Renault,2021,Kwid,7.71k,Petrol,Manual,"7,488"," Goregaon, Mumbai",3.83 lakh
+268, Tata,2023,ALTROZ,8.69k,Petrol,Manual,"15,054"," Mulund West, Mumbai 
+",7.70 lakh
+269, Hyundai,2023,ALCAZAR,8.94k,Petrol,Auto,"42,256"," Kandivali, Mumbai",22.20 lakh
+270, Maruti,2022,IGNIS,9.01k,Petrol,Auto,"11,671"," Goregaon, Mumbai",5.97 lakh
+271, Renault,2023,Kwid,9.18k,Petrol,Auto,"8,895"," Regency Anantam, Dombivli East",4.55 lakh
+272, KIA,2021,SONET,9.30k,Petrol,Manual,"16,636"," Kandivali, Mumbai",8.74 lakh
+273, Hyundai,2015,i10,19.73k,Petrol,Manual,"6,785"," Mulund West, Mumbai 
+",3.05 lakh
+274, Maruti,2018,Baleno,29.79k,Petrol,Manual,"9,697"," Goregaon, Mumbai",4.96 lakh
+275, Maruti,2020,Alto,10.51k,Petrol,Manual,"6,100"," Mulund West, Mumbai 
+",3.12 lakh
+276, Hyundai,2023,EXTER,11.84k,Petrol,Manual,"14,565"," Seawood
+",7.45 lakh
+277, Hyundai,2016,Elite,212.01k,Petrol,Manual,"9,149"," Goregaon, Mumbai",4.68 lakh
+278, Tata,2022,PUNCH,12.35k,Petrol,Manual,"11,828"," Kandivali, Mumbai",6.05 lakh
+279, Tata,2022,ALTROZ,12.71k,Petrol,Auto,"14,917"," Kandivali, Mumbai",7.63 lakh
+280, Tata,2024,ALTROZ,4.89k,Petrol,Manual,"15,333"," Goregaon, Mumbai",7.84 lakh
+281, Hyundai,2024,Creta,2.93k,Petrol,Auto,"39,134"," Mulund West, Mumbai 
+",20.56 lakh
+282, Honda,2024,Amaze,3.55k,Petrol,Auto,"16,331"," Goregaon, Mumbai",8.58 lakh
+283, Maruti,2023,New,016.69k,CNG,Manual,"11,515"," Seawood
+",5.89 lakh
+284, Hyundai,2023,NEW,25.70k,Petrol,Auto,"15,227"," Goregaon, Mumbai",8.00 lakh
+285, Tata,2023,PUNCH,17.16k,CNG,Manual,"16,564"," Mulund West, Mumbai 
+",8.70 lakh
+286, Tata,2023,ALTROZ,37.51k,CNG,Manual,"15,621"," Regency Anantam, Dombivli East",7.99 lakh
+287, Tata,2023,TIGOR,5.04k,CNG,Manual,"12,414"," Seawood
+",6.35 lakh
+288, Tata,2023,Tiago,17.42k,CNG,Manual,"12,295"," Seawood
+",6.29 lakh
+289, Tata,2023,TIGOR,22.04k,Petrol,Manual,"11,730"," Goregaon, Mumbai",6.00 lakh
+290, Maruti,2023,New,4.48k,Petrol,Auto,"11,535"," Goregaon, Mumbai",5.90 lakh
+291, Tata,2023,NEXON,16.91k,Diesel,Auto,"20,138"," Regency Anantam, Dombivli East",10.58 lakh
+292, Hyundai,2023,EXTER,11.84k,Petrol,Manual,"14,565"," Seawood
+",7.45 lakh
+293, Tata,2023,NEXON,13.87k,Petrol,Auto,"19,034"," Goregaon, Mumbai",10.00 lakh
+294, Nissan,2023,MAGNITE,45.01k,Petrol,Auto,"14,858"," Mulund West, Mumbai 
+",7.60 lakh
+295, Hyundai,2023,NEW,17.05k,Petrol,Auto,"15,322"," Mulund West, Mumbai 
+",8.05 lakh
+296, Nissan,2023,MAGNITE,14.57k,Petrol,Manual,"13,685"," Kandivali, Mumbai",7.00 lakh
+297, Tata,2023,TIGOR,36.31k,CNG,Manual,"13,040"," Mulund West, Mumbai 
+",6.67 lakh
+298, Renault,2023,Kwid,9.18k,Petrol,Auto,"8,895"," Regency Anantam, Dombivli East",4.55 lakh
+299, Maruti,2023,Alto,18.41k,Petrol,Manual,"8,309"," Regency Anantam, Dombivli East",4.25 lakh
+300, Maruti,2013,Alto,38.21k,Petrol,Manual,"5,829"," Regency Anantam, Dombivli East",1.75 lakh
+301, Maruti,2013,Wagon,76.23k,Petrol,Manual,"7,540"," Kandivali, Mumbai",2.27 lakh
+302, Hyundai,2013,Verna,28.69k,Petrol,Manual,"11,293"," Seawood
+",3.40 lakh
+303, Hyundai,2013,Grand,86.81k,Petrol,Manual,"9,964"," Mulund West, Mumbai 
+",3.00 lakh
+304, Hyundai,2013,i20,286.20k,CNG,Manual,"27,721"," Seawood
+",3.12 lakh
+305, Maruti,2013,Swift,66.66k,Petrol,Manual,"10,463"," Kandivali, Mumbai",3.15 lakh
+306, Hyundai,2013,i20,52.04k,Diesel,Manual,"16,099"," Goregaon, Mumbai",3.42 lakh
+307, Maruti,2013,Wagon,28.91k,CNG,Manual,"23,989"," Goregaon, Mumbai",2.70 lakh
+308, Maruti,2013,Ertiga,35.46k,Diesel,Manual,"25,608"," Goregaon, Mumbai",5.44 lakh
+309, Hyundai,2013,i20,223.56k,Petrol,Manual,"9,821"," Seawood
+",2.96 lakh
+310, Maruti,2014,Wagon,76.48k,Petrol,Manual,"6,741"," Goregaon, Mumbai",2.56 lakh
+311, Volkswagen,2014,Polo,97.25k,Petrol,Manual,"6,715"," Kandivali, Mumbai",2.55 lakh
+312, Maruti,2014,Alto,30.59k,Petrol,Manual,"5,082"," Mulund West, Mumbai 
+",1.93 lakh
+313, Maruti,2014,Swift,29.05k,Petrol,Manual,"9,612"," Kandivali, Mumbai",3.65 lakh
+314, Maruti,2014,Wagon,46.36k,Petrol,Manual,"6,715"," Mulund West, Mumbai 
+",2.55 lakh
+315, Maruti,2014,Swift,99.06k,Petrol,Manual,"8,894"," Kandivali, Mumbai",3.38 lakh
+316, Volkswagen,2014,Polo,78.31k,Petrol,Manual,"8,295"," Kandivali, Mumbai",3.15 lakh
+317, Toyota,2014,Etios,46.39k,Petrol,Manual,"8,558"," Mulund West, Mumbai 
+",3.25 lakh
+318, Toyota,2014,Etios,63.64k,Petrol,Manual,"6,583"," Kandivali, Mumbai",2.50 lakh
+319, Maruti,2014,Ertiga,41.47k,CNG,Manual,"24,243"," Kandivali, Mumbai",5.15 lakh
+320, Hyundai,2011,i10,258.68k,Petrol,Manual,"18,925"," Bachupally, Hyderabad",2.13 lakh
+321, Maruti,2013,Alto,87.27k,Petrol,Manual,"5,414"," Kompally, Hyderabad",1.63 lakh
+322, Honda,2013,Amaze,99.84k,Petrol,Manual,"8,935"," Bachupally, Hyderabad",2.69 lakh
+323, Maruti,2013,Alto,29.07k,Petrol,Manual,"7,274"," Kompally, Hyderabad",2.19 lakh
+324, Honda,2013,Amaze,49.40k,Petrol,Manual,"11,359"," Bachupally, Hyderabad",3.42 lakh
+325, Maruti,2013,Alto,98.82k,Petrol,Manual,"6,975"," Upperpally, Attapur, Hyderabad",2.10 lakh
+326, Hyundai,2014,Verna,93.94k,Diesel,Manual,"14,714"," Kompally, Hyderabad",4.43 lakh
+327, Maruti,2014,Swift,,Petrol,Manual,"8,716"," Upperpally, Attapur, Hyderabad",3.31 lakh
+328, Maruti,2014,Wagon,76.93k,Petrol,Manual,"7,347"," Kompally, Hyderabad",2.79 lakh
+329, Hyundai,2014,i10,143.06k,Petrol,Manual,"7,742"," Kompally, Hyderabad",2.94 lakh
+330, Hyundai,2014,Grand,74.58k,Petrol,Manual,"9,691"," Upperpally, Attapur, Hyderabad",3.68 lakh
+331, Hyundai,2014,Xcent,270.00k,Petrol,Manual,"8,611"," Upperpally, Attapur, Hyderabad",3.27 lakh
+332, Maruti,2015,Swift,50.60k,Petrol,Manual,"8,386"," Bachupally, Hyderabad",3.77 lakh
+333, Hyundai,2015,Grand,70.99k,Petrol,Manual,"7,496"," Upperpally, Attapur, Hyderabad",3.37 lakh
+334, Honda,2015,Brio,47.17k,Petrol,Manual,"6,963"," Upperpally, Attapur, Hyderabad",3.13 lakh
+335, Maruti,2015,Swift,97.99k,Diesel,Manual,"12,719"," Bachupally, Hyderabad",4.83 lakh
+336, Maruti,2015,Alto,60.49k,Petrol,Manual,"4,649"," Kompally, Hyderabad",2.09 lakh
+337, Honda,2015,City,78.89k,Petrol,Manual,"11,144"," Bachupally, Hyderabad",5.01 lakh
+338, Hyundai,2015,Grand,82.84k,Petrol,Manual,"7,697"," Kompally, Hyderabad",3.46 lakh
+339, Volkswagen,2015,Vento,77.29k,Petrol,Manual,"12,902"," Bachupally, Hyderabad",5.80 lakh
+340, Maruti,2024,Grand,8.28k,Petrol,Auto,"28,170"," Kompally, Hyderabad",14.80 lakh
+341, Maruti,2024,FRONX,9.20k,Petrol,Auto,"22,517"," Kompally, Hyderabad",11.83 lakh
+342, Maruti,2024,Grand,16.38k,Petrol,Manual,"22,746"," Kompally, Hyderabad",11.95 lakh
+343, Hyundai,2024,EXTER,4.66k,Petrol,Manual,"11,437"," Upperpally, Attapur, Hyderabad",5.85 lakh
+344, Hyundai,2024,NEW,7.13k,Petrol,Auto,"17,245"," Kompally, Hyderabad",9.06 lakh
+345, Renault,2023,Kwid,031.70k,Petrol,Auto,"9,736"," Kompally, Hyderabad",4.98 lakh
+346, Tata,2023,NEXON,33.55k,Petrol,Auto,"19,301"," Kompally, Hyderabad",10.14 lakh
+347, Tata,2023,NEXON,22.45k,Petrol,Auto,"17,397"," Bachupally, Hyderabad",9.14 lakh
+348, Hyundai,2023,GRAND,9.68k,Petrol,Auto,"15,601"," Kompally, Hyderabad",7.98 lakh
+349, Maruti,2023,Grand,29.42k,Petrol,Manual,"21,318"," Upperpally, Attapur, Hyderabad",11.20 lakh
+350, Tata,2023,NEXON,36.00k,Petrol,Manual,"20,176"," Bachupally, Hyderabad",10.60 lakh
+351, Maruti,2023,IGNIS,29.85k,Petrol,Manual,"10,225"," Upperpally, Attapur, Hyderabad",5.23 lakh
+352, MG,2023,HECTOR,14.25k,Petrol,Manual,"31,559"," Kompally, Hyderabad",16.58 lakh
+353, Tata,2023,NEXON,26.12k,Diesel,Auto,"27,314"," Bachupally, Hyderabad",14.35 lakh
+354, Maruti,2023,Alto,20.49k,Petrol,Auto,"9,736"," Kompally, Hyderabad",4.98 lakh
+355, Maruti,2023,Ciaz,16.42k,Petrol,Auto,"18,787"," Kompally, Hyderabad",9.87 lakh
+356, Mahindra,2023,Thar,19.03k,Diesel,Auto,"28,399"," Kompally, Hyderabad",14.92 lakh
+357, Hyundai,2023,EXTER,12.09k,Petrol,Auto,"18,120"," Kompally, Hyderabad",9.52 lakh
+358, Tata,2023,ALTROZ,12.82k,Petrol,Manual,"11,632"," Upperpally, Attapur, Hyderabad",5.95 lakh
+359, KIA,2023,SELTOS,34.74k,Diesel,Manual,"23,888"," Upperpally, Attapur, Hyderabad",12.55 lakh
+360, Maruti,2018,Baleno,,Petrol,Auto,"10,499"," Bachupally, Hyderabad",4.72 lakh
+361, Hyundai,2018,Elite,,Petrol,Manual,"10,766"," Kompally, Hyderabad",4.84 lakh
+362, Skoda,2017,Rapid,,Diesel,Manual,"12,079"," Kompally, Hyderabad",5.43 lakh
+363, Honda,2017,City,,Petrol,Manual,"11,612"," Bachupally, Hyderabad",5.22 lakh
+364, Maruti,2016,Alto,,Petrol,Auto,"5,445"," Bachupally, Hyderabad",2.45 lakh
+365, Hyundai,2016,Elite,,Petrol,Manual,"10,232"," Kompally, Hyderabad",4.60 lakh
+366, Maruti,2017,Baleno,,Petrol,Auto,"10,433"," Upperpally, Attapur, Hyderabad",4.69 lakh
+367, Datsun,2018,Redi,,Petrol,Manual,"4,342"," Kompally, Hyderabad",1.95 lakh
+368, Datsun,2016,Go,,Petrol,Manual,"3,826"," Upperpally, Attapur, Hyderabad",1.72 lakh
+369, Maruti,2019,Baleno,,Petrol,Manual,"11,167"," Upperpally, Attapur, Hyderabad",5.02 lakh
+370, Maruti,2014,Swift,,Petrol,Manual,"8,716"," Upperpally, Attapur, Hyderabad",3.31 lakh
+371, Honda,2013,Amaze,99.84k,Petrol,Manual,"8,935"," Bachupally, Hyderabad",2.69 lakh
+372, Maruti,2013,Alto,98.82k,Petrol,Manual,"6,975"," Upperpally, Attapur, Hyderabad",2.10 lakh
+373, Maruti,2016,Celerio,98.36k,Petrol,Auto,"6,999"," Bachupally, Hyderabad",3.58 lakh
+374, Maruti,2018,Ciaz,98.12k,Petrol,Manual,"10,420"," Bachupally, Hyderabad",5.33 lakh
+375, Maruti,2017,Dzire,97.99k,Petrol,Manual,"9,071"," Bachupally, Hyderabad",4.64 lakh
+376, Maruti,2015,Swift,97.99k,Diesel,Manual,"12,719"," Bachupally, Hyderabad",4.83 lakh
+377, Volkswagen,2017,Ameo,97.57k,Petrol,Manual,"8,152"," Kompally, Hyderabad",4.17 lakh
+378, Hyundai,2017,Grand,96.01k,Petrol,Manual,"8,035"," Bachupally, Hyderabad",4.11 lakh
+379, Mahindra,2020,XUV500,995.99k,Diesel,Manual,"22,632"," Bachupally, Hyderabad",11.89 lakh
+380, Maruti,2015,Wagon,3.20k,Petrol,Manual,"7,274"," Bachupally, Hyderabad",3.27 lakh
+381, Renault,2022,Kwid,04.16k,Petrol,Auto,"9,365"," Kompally, Hyderabad",4.79 lakh
+382, Hyundai,2024,EXTER,4.66k,Petrol,Manual,"11,437"," Upperpally, Attapur, Hyderabad",5.85 lakh
+383, Hyundai,2024,NEW,7.13k,Petrol,Auto,"17,245"," Kompally, Hyderabad",9.06 lakh
+384, Mahindra,2023,Thar,7.88k,Diesel,Auto,"29,617"," Kompally, Hyderabad",15.56 lakh
+385, Maruti,2024,Grand,8.28k,Petrol,Auto,"28,170"," Kompally, Hyderabad",14.80 lakh
+386, Maruti,2024,FRONX,9.20k,Petrol,Auto,"22,517"," Kompally, Hyderabad",11.83 lakh
+387, Renault,2022,Kwid,09.60k,Petrol,Auto,"9,345"," Bachupally, Hyderabad",4.78 lakh
+388, Hyundai,2023,GRAND,9.68k,Petrol,Auto,"15,601"," Kompally, Hyderabad",7.98 lakh
+389, Maruti,2023,IGNIS,29.85k,Petrol,Manual,"10,225"," Upperpally, Attapur, Hyderabad",5.23 lakh
+390, Mahindra,2022,XUV300,9.95k,Petrol,Auto,"21,356"," Kompally, Hyderabad",11.22 lakh
+391, Renault,2022,Kwid,10.27k,Petrol,Auto,"8,719"," Upperpally, Attapur, Hyderabad",4.46 lakh
+392, MG,2021,HECTOR,11.85k,Petrol,Auto,"26,629"," Kompally, Hyderabad",13.99 lakh
+393, Mahindra,2022,XUV700,11.91k,Petrol,Auto,"32,777"," Kompally, Hyderabad",17.22 lakh
+394, Hyundai,2023,EXTER,12.09k,Petrol,Auto,"18,120"," Kompally, Hyderabad",9.52 lakh
+395, Tata,2023,ALTROZ,12.82k,Petrol,Manual,"11,632"," Upperpally, Attapur, Hyderabad",5.95 lakh
+396, Hyundai,2023,Verna,13.09k,Petrol,Manual,"26,952"," Upperpally, Attapur, Hyderabad",14.16 lakh
+397, Mahindra,2022,Thar,13.49k,Petrol,Auto,"25,277"," Upperpally, Attapur, Hyderabad",13.28 lakh
+398, MG,2023,HECTOR,14.25k,Petrol,Manual,"31,559"," Kompally, Hyderabad",16.58 lakh
+399, Hyundai,2023,GRAND,14.97k,Petrol,Manual,"11,241"," Kompally, Hyderabad",5.75 lakh
+400, Mahindra,2022,XUV700,51.65k,Diesel,Manual,"35,613"," Kompally, Hyderabad",18.71 lakh
+401, Mahindra,2022,XUV700,69.05k,Petrol,Auto,"35,023"," Kompally, Hyderabad",18.40 lakh
+402, Mahindra,2022,XUV700,31.60k,Petrol,Auto,"33,690"," Kompally, Hyderabad",17.70 lakh
+403, Mahindra,2022,XUV700,11.91k,Petrol,Auto,"32,777"," Kompally, Hyderabad",17.22 lakh
+404, Mahindra,2022,XUV700,30.45k,Diesel,Manual,"32,453"," Upperpally, Attapur, Hyderabad",17.05 lakh
+405, MG,2023,HECTOR,14.25k,Petrol,Manual,"31,559"," Kompally, Hyderabad",16.58 lakh
+406, Mahindra,2023,Thar,7.88k,Diesel,Auto,"29,617"," Kompally, Hyderabad",15.56 lakh
+407, Hyundai,2021,Creta,34.26k,Petrol,Auto,"29,446"," Kompally, Hyderabad",15.47 lakh
+408, Mahindra,2023,Thar,19.03k,Diesel,Auto,"28,399"," Kompally, Hyderabad",14.92 lakh
+409, Maruti,2024,Grand,8.28k,Petrol,Auto,"28,170"," Kompally, Hyderabad",14.80 lakh
+410, Hyundai,2021,Creta,46.65k,Petrol,Auto,"27,942"," Kompally, Hyderabad",14.68 lakh
+411, Tata,2023,NEXON,26.12k,Diesel,Auto,"27,314"," Bachupally, Hyderabad",14.35 lakh
+412, Hyundai,2020,Creta,48.34k,Petrol,Auto,"27,028"," Upperpally, Attapur, Hyderabad",14.20 lakh
+413, Hyundai,2023,Verna,13.09k,Petrol,Manual,"26,952"," Upperpally, Attapur, Hyderabad",14.16 lakh
+414, MG,2021,HECTOR,11.85k,Petrol,Auto,"26,629"," Kompally, Hyderabad",13.99 lakh
+415, MG,2021,HECTOR,37.15k,Petrol,Manual,"25,886"," Kompally, Hyderabad",13.60 lakh
+416, Volkswagen,2022,TAIGUN,41.77k,Petrol,Manual,"25,601"," Upperpally, Attapur, Hyderabad",13.45 lakh
+417, Mahindra,2022,Thar,13.49k,Petrol,Auto,"25,277"," Upperpally, Attapur, Hyderabad",13.28 lakh
+418, MG,2020,HECTOR,36.38k,Diesel,Manual,"25,258"," Kompally, Hyderabad",13.27 lakh
+419, Hyundai,2021,Creta,68.35k,Diesel,Manual,"24,859"," Bachupally, Hyderabad",13.06 lakh
+420, Maruti,2013,Alto,87.27k,Petrol,Manual,"5,414"," Kompally, Hyderabad",1.63 lakh
+421, Datsun,2016,Go,,Petrol,Manual,"3,826"," Upperpally, Attapur, Hyderabad",1.72 lakh
+422, Datsun,2018,Redi,,Petrol,Manual,"4,342"," Kompally, Hyderabad",1.95 lakh
+423, Maruti,2015,Alto,60.49k,Petrol,Manual,"4,649"," Kompally, Hyderabad",2.09 lakh
+424, Maruti,2013,Alto,98.82k,Petrol,Manual,"6,975"," Upperpally, Attapur, Hyderabad",2.10 lakh
+425, Datsun,2018,Redi,85.71k,Petrol,Manual,"4,164"," Bachupally, Hyderabad",2.13 lakh
+426, Hyundai,2011,i10,258.68k,Petrol,Manual,"18,925"," Bachupally, Hyderabad",2.13 lakh
+427, Maruti,2013,Alto,29.07k,Petrol,Manual,"7,274"," Kompally, Hyderabad",2.19 lakh
+428, Maruti,2016,Alto,88.37k,Petrol,Manual,"4,360"," Bachupally, Hyderabad",2.23 lakh
+429, Maruti,2016,Alto,43.02k,Petrol,Manual,"4,536"," Kompally, Hyderabad",2.32 lakh
+430, Maruti,2016,Alto,37.03k,Petrol,Manual,"4,555"," Bachupally, Hyderabad",2.33 lakh
+431, Maruti,2015,Alto,36.87k,Petrol,Manual,"5,227"," Kompally, Hyderabad",2.35 lakh
+432, Mahindra,2016,Kuv100,81.98k,Petrol,Manual,"4,712"," Bachupally, Hyderabad",2.41 lakh
+433, Maruti,2016,Alto,,Petrol,Auto,"5,445"," Bachupally, Hyderabad",2.45 lakh
+434, Datsun,2019,Redi,044.53k,Petrol,Manual,"4,790"," Kompally, Hyderabad",2.45 lakh
+435, Maruti,2018,Alto,79.45k,Petrol,Manual,"4,809"," Kompally, Hyderabad",2.46 lakh
+436, Maruti,2017,Alto,34.64k,Petrol,Manual,"4,829"," Upperpally, Attapur, Hyderabad",2.47 lakh
+437, Maruti,2019,Alto,43.60k,Petrol,Manual,"4,868"," Bachupally, Hyderabad",2.49 lakh
+438, Maruti,2019,Alto,48.38k,Petrol,Manual,"5,063"," Kompally, Hyderabad",2.59 lakh
+439, Maruti,2019,Alto,34.05k,Petrol,Manual,"5,083"," Bachupally, Hyderabad",2.60 lakh
+440, Renault,2023,TRIBER,15.13k,Petrol,Manual,"13,372"," Kompally, Hyderabad",6.84 lakh
+441, Volkswagen,2018,Polo,85.47k,Diesel,Manual,"11,945"," Kompally, Hyderabad",6.11 lakh
+442, Mahindra,2022,XUV700,11.91k,Petrol,Auto,"32,777"," Kompally, Hyderabad",17.22 lakh
+443, Honda,2018,City,82.15k,Petrol,Manual,"13,939"," Kompally, Hyderabad",7.13 lakh
+444, Maruti,2018,Baleno,283.13k,Petrol,Auto,"11,320"," Kompally, Hyderabad",5.79 lakh
+445, Hyundai,2015,Xcent,62.88k,Petrol,Manual,"9,098"," Upperpally, Attapur, Hyderabad",4.09 lakh
+446, Maruti,2021,Ertiga,19.69k,Petrol,Auto,"17,892"," Kompally, Hyderabad",9.40 lakh
+447, Jeep,2018,Compass,485.93k,Diesel,Manual,"21,451"," Kompally, Hyderabad",11.27 lakh
+448, Hyundai,2014,Xcent,270.00k,Petrol,Manual,"8,611"," Upperpally, Attapur, Hyderabad",3.27 lakh
+449, Maruti,2019,New,25.97k,Petrol,Auto,"9,462"," Kompally, Hyderabad",4.84 lakh
+450, Renault,2022,Kwid,036.09k,Petrol,Manual,"8,504"," Kompally, Hyderabad",4.35 lakh
+451, Maruti,2019,Baleno,229.63k,Petrol,Manual,"12,747"," Upperpally, Attapur, Hyderabad",6.52 lakh
+452, Tata,2023,NEXON,22.45k,Petrol,Auto,"17,397"," Bachupally, Hyderabad",9.14 lakh
+453, Mahindra,2016,Kuv100,81.98k,Petrol,Manual,"4,712"," Bachupally, Hyderabad",2.41 lakh
+454, Renault,2023,Kwid,031.70k,Petrol,Auto,"9,736"," Kompally, Hyderabad",4.98 lakh
+455, Hyundai,2017,Grand,32.59k,Petrol,Manual,"8,778"," Bachupally, Hyderabad",4.49 lakh
+456, Maruti,2015,Swift,50.60k,Petrol,Manual,"8,386"," Bachupally, Hyderabad",3.77 lakh
+457, Maruti,2018,Baleno,241.17k,Petrol,Manual,"11,574"," Upperpally, Attapur, Hyderabad",5.92 lakh
+458, Hyundai,2023,GRAND,9.68k,Petrol,Auto,"15,601"," Kompally, Hyderabad",7.98 lakh
+459, Renault,2020,TRIBER,49.12k,Petrol,Auto,"10,498"," Kompally, Hyderabad",5.37 lakh
+460, Hyundai,2014,Verna,93.94k,Diesel,Manual,"14,714"," Kompally, Hyderabad",4.43 lakh
+461, Maruti,2019,Swift,78.41k,Petrol,Auto,"9,247"," Kompally, Hyderabad",4.73 lakh
+462, Hyundai,2017,Grand,32.59k,Petrol,Manual,"8,778"," Bachupally, Hyderabad",4.49 lakh
+463, Renault,2020,TRIBER,49.12k,Petrol,Auto,"10,498"," Kompally, Hyderabad",5.37 lakh
+464, Renault,2020,Kwid,39.49k,Petrol,Manual,"7,683"," Bachupally, Hyderabad",3.93 lakh
+465, Renault,2021,Kwid,32.73k,Petrol,Auto,"8,133"," Kompally, Hyderabad",4.16 lakh
+466, Renault,2023,Kwid,031.70k,Petrol,Auto,"9,736"," Kompally, Hyderabad",4.98 lakh
+467, Renault,2021,Kwid,32.80k,Petrol,Manual,"7,683"," Upperpally, Attapur, Hyderabad",3.93 lakh
+468, Maruti,2017,Dzire,97.99k,Petrol,Manual,"9,071"," Bachupally, Hyderabad",4.64 lakh
+469, Tata,2023,NEXON,33.55k,Petrol,Auto,"19,301"," Kompally, Hyderabad",10.14 lakh
+470, Maruti,2015,Swift,50.60k,Petrol,Manual,"8,386"," Bachupally, Hyderabad",3.77 lakh
+471, Volkswagen,2019,Polo,69.86k,Petrol,Manual,"9,384"," Bachupally, Hyderabad",4.80 lakh
+472, Maruti,2020,Swift,73.82k,Petrol,Auto,"11,496"," Kompally, Hyderabad",5.88 lakh
+473, Datsun,2019,Redi,044.53k,Petrol,Manual,"4,790"," Kompally, Hyderabad",2.45 lakh
+474, Volkswagen,2020,Polo,38.29k,Petrol,Manual,"14,193"," Bachupally, Hyderabad",7.26 lakh
+475, Honda,2017,Amaze,94.06k,Petrol,Manual,"7,527"," Kompally, Hyderabad",3.85 lakh
+476, Ford,2017,Ecosport,88.99k,Petrol,Auto,"12,629"," Bachupally, Hyderabad",6.46 lakh
+477, Tata,2019,Tiago,27.25k,Petrol,Manual,"9,374"," Kompally, Hyderabad",4.79 lakh
+478, Renault,2019,TRIBER,31.58k,Petrol,Manual,"10,889"," Bachupally, Hyderabad",5.57 lakh
+479, Skoda,2022,SLAVIA,33.41k,Petrol,Auto,"20,214"," Bachupally, Hyderabad",10.62 lakh
+480, Renault,2016,Kwid,829.03k,Petrol,Manual,"5,630"," Undri, Pune",2.88 lakh
+481, Honda,2015,City,,Petrol,Manual,"9,565"," Amanora Mall apex building, Pune",4.30 lakh
+482, Maruti,2013,Ritz,47.96k,Petrol,Manual,"8,569"," Amanora Mall apex building, Pune",2.58 lakh
+483, Toyota,2015,Etios,33.80k,Petrol,Manual,"8,987"," Amanora Mall apex building, Pune",4.04 lakh
+484, Hyundai,2016,Grand,29.33k,Petrol,Manual,"8,739"," Tathawade, Pune",4.47 lakh
+485, Maruti,2015,Swift,73.55k,Petrol,Manual,"8,876"," Amanora Mall apex building, Pune",3.99 lakh
+486, Hyundai,2015,Grand,14.28k,Petrol,Manual,"8,742"," Amanora Mall apex building, Pune",3.93 lakh
+487, Renault,2019,Kwid,45.89k,Petrol,Auto,"6,749"," Amanora Mall apex building, Pune",3.45 lakh
+488, Renault,2021,Kwid,31.49k,Petrol,Auto,"7,390"," Tathawade, Pune",3.78 lakh
+489, Maruti,2020,Baleno,274.07k,Petrol,Manual,"10,870"," Amanora Mall apex building, Pune",5.56 lakh
+490, Renault,2020,Kwid,32.17k,Petrol,Manual,"6,647"," Tathawade, Pune",3.40 lakh
+491, Tata,2016,Tiago,86.54k,Petrol,Manual,"6,549"," Amanora Mall apex building, Pune",3.35 lakh
+492, Hyundai,2013,i20,249.22k,Petrol,Manual,"11,957"," Tathawade, Pune",3.60 lakh
+493, Maruti,2015,Alto,22.34k,Petrol,Manual,"5,227"," Tathawade, Pune",2.35 lakh
+494, Tata,2020,Harrier,33.78k,Diesel,Manual,"21,128"," Tathawade, Pune",11.10 lakh
+495, Datsun,2017,Redi,54.23k,Petrol,Manual,"3,988"," Tathawade, Pune",2.04 lakh
+496, Maruti,2022,Swift,35.75k,Petrol,Manual,"10,870"," Tathawade, Pune",5.56 lakh
+497, Toyota,2016,Etios,43.83k,Petrol,Manual,"6,843"," Tathawade, Pune",3.50 lakh
+498, Honda,2021,Amaze,26.90k,Petrol,Manual,"10,850"," Amanora Mall apex building, Pune",5.55 lakh
+499, Renault,2020,Kwid,814.21k,Petrol,Manual,"6,647"," Tathawade, Pune",3.40 lakh
+500, Maruti,2020,New,073.31k,CNG,Manual,"9,189"," Tathawade, Pune",4.70 lakh
+501, Maruti,2015,Alto,22.34k,Petrol,Manual,"5,227"," Tathawade, Pune",2.35 lakh
+502, Maruti,2019,Swift,29.27k,Petrol,Manual,"11,105"," Tathawade, Pune",5.68 lakh
+503, Skoda,2021,Rapid,46.88k,Petrol,Auto,"12,747"," Tathawade, Pune",6.52 lakh
+504, Maruti,2013,Ritz,47.96k,Petrol,Manual,"8,569"," Amanora Mall apex building, Pune",2.58 lakh
+505, Tata,2021,NEXON,34.29k,Diesel,Manual,"15,741"," Tathawade, Pune",8.27 lakh
+506, Renault,2016,Kwid,829.03k,Petrol,Manual,"5,630"," Undri, Pune",2.88 lakh
+507, KIA,2022,SONET,50.44k,Diesel,Auto,"20,785"," Tathawade, Pune",10.92 lakh
+508, Toyota,2015,Etios,33.80k,Petrol,Manual,"8,987"," Amanora Mall apex building, Pune",4.04 lakh
+509, Maruti,2020,Baleno,274.07k,Petrol,Manual,"10,870"," Amanora Mall apex building, Pune",5.56 lakh
+510, Hyundai,2015,Grand,14.28k,Petrol,Manual,"8,742"," Amanora Mall apex building, Pune",3.93 lakh
+511, Tata,2022,NEXON,32.08k,Petrol,Auto,"16,902"," Amanora Mall apex building, Pune",8.88 lakh
+512, Maruti,2015,Swift,73.55k,Petrol,Manual,"8,876"," Amanora Mall apex building, Pune",3.99 lakh
+513, Hyundai,2016,Grand,29.33k,Petrol,Manual,"8,739"," Tathawade, Pune",4.47 lakh
+514, Maruti,2020,Celerio,69.98k,CNG,Manual,"9,873"," Tathawade, Pune",5.05 lakh
+515, Maruti,2016,Ciaz,86.00k,Diesel,Manual,"12,746"," Tathawade, Pune",5.73 lakh
+516, Renault,2016,Kwid,74.95k,Petrol,Manual,"4,184"," Tathawade, Pune",2.14 lakh
+517, Tata,2022,Tiago,52.82k,CNG,Manual,"12,082"," Tathawade, Pune",6.18 lakh
+518, Maruti,2018,Ciaz,70.83k,Petrol,Manual,"10,948"," Tathawade, Pune",5.60 lakh
+519, Hyundai,2014,Xcent,242.02k,Petrol,Manual,"9,586"," Tathawade, Pune",3.64 lakh
+520, Hyundai,2014,Eon,48.05k,Petrol,Manual,"5,293"," Tathawade, Pune",2.01 lakh
+521, Datsun,2017,Redi,54.23k,Petrol,Manual,"3,988"," Tathawade, Pune",2.04 lakh
+522, Datsun,2018,Redi,087.08k,Petrol,Manual,"4,027"," Amanora Mall apex building, Pune",2.06 lakh
+523, Renault,2016,Kwid,74.95k,Petrol,Manual,"4,184"," Tathawade, Pune",2.14 lakh
+524, Maruti,2014,Alto,22.62k,Petrol,Manual,"5,872"," Undri, Pune",2.23 lakh
+525, Hyundai,2016,Eon,59.08k,Petrol,Manual,"4,375"," Tathawade, Pune",2.24 lakh
+526, Maruti,2013,Ritz,79.52k,Petrol,Manual,"7,639"," Amanora Mall apex building, Pune",2.30 lakh
+527, Maruti,2015,Alto,22.34k,Petrol,Manual,"5,227"," Tathawade, Pune",2.35 lakh
+528, Renault,2016,Kwid,41.38k,Petrol,Manual,"4,594"," Amanora Mall apex building, Pune",2.35 lakh
+529, Renault,2017,Kwid,854.34k,Petrol,Manual,"4,692"," Tathawade, Pune",2.40 lakh
+530, Maruti,2012,Wagon,74.44k,CNG,Manual,," Amanora Mall apex building, Pune",2.40 lakh
+531, Maruti,2014,Wagon,96.17k,CNG,Manual,"11,298"," Amanora Mall apex building, Pune",2.40 lakh
+532, Renault,2016,Kwid,832.32k,Petrol,Manual,"4,712"," Undri, Pune",2.41 lakh
+533, Renault,2016,Kwid,873.00k,Petrol,Manual,"4,848"," Tathawade, Pune",2.48 lakh
+534, Hyundai,2014,Eon,48.45k,Petrol,Manual,"6,583"," Tathawade, Pune",2.50 lakh
+535, Maruti,2013,Ritz,47.96k,Petrol,Manual,"8,569"," Amanora Mall apex building, Pune",2.58 lakh
+536, Maruti,2016,Alto,79.43k,Petrol,Manual,"5,181"," Amanora Mall apex building, Pune",2.65 lakh
+537, Maruti,2014,Wagon,81.35k,Petrol,Manual,"7,031"," Tathawade, Pune",2.67 lakh
+538, Maruti,2015,Alto,30.56k,CNG,Manual,"8,968"," Tathawade, Pune",2.70 lakh
+539, Maruti,2018,Alto,29.54k,Petrol,Manual,"5,376"," Tathawade, Pune",2.75 lakh
+540, Maruti,2022,Grand,17.95k,Petrol,Manual,"24,649"," Tathawade, Pune",12.95 lakh
+541, Tata,2024,NEXON,9.49k,Petrol,Manual,"21,982"," Tathawade, Pune",11.55 lakh
+542, Tata,2020,Harrier,33.78k,Diesel,Manual,"21,128"," Tathawade, Pune",11.10 lakh
+543, KIA,2022,SONET,50.44k,Diesel,Auto,"20,785"," Tathawade, Pune",10.92 lakh
+544, Tata,2023,NEXON,9.45k,Petrol,Auto,"20,633"," Tathawade, Pune",10.84 lakh
+545, Mahindra,2021,XUV300,39.15k,Diesel,Auto,"19,624"," Tathawade, Pune",10.31 lakh
+546, KIA,2022,SONET,20.27k,Petrol,Manual,"18,254"," Tathawade, Pune",9.59 lakh
+547, KIA,2020,SELTOS,546.50k,Petrol,Manual,"18,082"," Tathawade, Pune",9.50 lakh
+548, KIA,2020,SONET,81.05k,Diesel,Auto,"17,854"," Tathawade, Pune",9.38 lakh
+549, Hyundai,2021,VENUE,29.64k,Petrol,Auto,"17,321"," Tathawade, Pune",9.10 lakh
+550, KIA,2019,SELTOS,83.43k,Petrol,Manual,"17,321"," Tathawade, Pune",9.10 lakh
+551, Honda,2020,City,32.76k,Petrol,Manual,"17,226"," Amanora Mall apex building, Pune",9.05 lakh
+552, Tata,2022,NEXON,32.08k,Petrol,Auto,"16,902"," Amanora Mall apex building, Pune",8.88 lakh
+553, Mahindra,2022,XUV300,12.80k,Petrol,Manual,"16,845"," Tathawade, Pune",8.85 lakh
+554, Hyundai,2021,VENUE,25.36k,Petrol,Auto,"16,655"," Tathawade, Pune",8.75 lakh
+555, Maruti,2023,Baleno,13.22k,Petrol,Auto,"16,601"," Amanora Mall apex building, Pune",8.72 lakh
+556, Honda,2021,City,50.12k,Petrol,Manual,"16,213"," Tathawade, Pune",8.52 lakh
+557, Maruti,2021,Vitara,51.81k,Petrol,Auto,"16,141"," Amanora Mall apex building, Pune",8.48 lakh
+558, Honda,2019,City,18.60k,Petrol,Manual,"16,084"," Undri, Pune",8.45 lakh
+559, Hyundai,2021,VENUE,7.99k,Petrol,Manual,"16,084"," Tathawade, Pune",8.45 lakh
+560, Maruti,2022,Grand,17.95k,Petrol,Manual,"24,649"," Tathawade, Pune",12.95 lakh
+561, Tata,2024,NEXON,9.49k,Petrol,Manual,"21,982"," Tathawade, Pune",11.55 lakh
+562, Tata,2020,Harrier,33.78k,Diesel,Manual,"21,128"," Tathawade, Pune",11.10 lakh
+563, KIA,2022,SONET,50.44k,Diesel,Auto,"20,785"," Tathawade, Pune",10.92 lakh
+564, Tata,2023,NEXON,9.45k,Petrol,Auto,"20,633"," Tathawade, Pune",10.84 lakh
+565, Mahindra,2021,XUV300,39.15k,Diesel,Auto,"19,624"," Tathawade, Pune",10.31 lakh
+566, KIA,2022,SONET,20.27k,Petrol,Manual,"18,254"," Tathawade, Pune",9.59 lakh
+567, KIA,2020,SELTOS,546.50k,Petrol,Manual,"18,082"," Tathawade, Pune",9.50 lakh
+568, KIA,2020,SONET,81.05k,Diesel,Auto,"17,854"," Tathawade, Pune",9.38 lakh
+569, Hyundai,2021,VENUE,29.64k,Petrol,Auto,"17,321"," Tathawade, Pune",9.10 lakh
+570, KIA,2019,SELTOS,83.43k,Petrol,Manual,"17,321"," Tathawade, Pune",9.10 lakh
+571, Honda,2020,City,32.76k,Petrol,Manual,"17,226"," Amanora Mall apex building, Pune",9.05 lakh
+572, Tata,2022,NEXON,32.08k,Petrol,Auto,"16,902"," Amanora Mall apex building, Pune",8.88 lakh
+573, Mahindra,2022,XUV300,12.80k,Petrol,Manual,"16,845"," Tathawade, Pune",8.85 lakh
+574, Hyundai,2021,VENUE,25.36k,Petrol,Auto,"16,655"," Tathawade, Pune",8.75 lakh
+575, Maruti,2023,Baleno,13.22k,Petrol,Auto,"16,601"," Amanora Mall apex building, Pune",8.72 lakh
+576, Honda,2021,City,50.12k,Petrol,Manual,"16,213"," Tathawade, Pune",8.52 lakh
+577, Maruti,2021,Vitara,51.81k,Petrol,Auto,"16,141"," Amanora Mall apex building, Pune",8.48 lakh
+578, Honda,2019,City,18.60k,Petrol,Manual,"16,084"," Undri, Pune",8.45 lakh
+579, Hyundai,2021,VENUE,7.99k,Petrol,Manual,"16,084"," Tathawade, Pune",8.45 lakh
+580, Hyundai,2014,Xcent,,Petrol,Manual,"8,290"," Amanora Mall apex building, Pune",3.15 lakh
+581, Honda,2015,City,,Petrol,Manual,"9,565"," Amanora Mall apex building, Pune",4.30 lakh
+582, Maruti,2018,Ciaz,,Petrol,Manual,"12,079"," Tathawade, Pune",5.43 lakh
+583, Honda,2018,Jazz,99.55k,Petrol,Auto,"8,113"," Amanora Mall apex building, Pune",4.15 lakh
+584, Honda,2015,Amaze,99.39k,CNG,Manual,"11,625"," Undri, Pune",3.50 lakh
+585, Tata,2018,Tiago,98.19k,Petrol,Manual,"7,038"," Amanora Mall apex building, Pune",3.60 lakh
+586, Honda,2015,City,96.21k,Petrol,Manual,"8,787"," Amanora Mall apex building, Pune",3.95 lakh
+587, Maruti,2014,Wagon,96.17k,CNG,Manual,"11,298"," Amanora Mall apex building, Pune",2.40 lakh
+588, Honda,2018,WR,94.44k,Petrol,Manual,"11,437"," Tathawade, Pune",5.85 lakh
+589, Hyundai,2016,Grand,94.02k,CNG,Manual,"9,170"," Tathawade, Pune",3.48 lakh
+590, Maruti,2014,Wagon,94.02k,Petrol,Manual,"7,426"," Tathawade, Pune",2.82 lakh
+591, Hyundai,2014,Xcent,93.16k,Petrol,Manual,"9,191"," Amanora Mall apex building, Pune",3.49 lakh
+592, Honda,2013,City,92.87k,Petrol,Manual,"11,293"," Tathawade, Pune",3.40 lakh
+593, Maruti,2016,Baleno,292.24k,CNG,Manual,"12,640"," Undri, Pune",4.80 lakh
+594, Volkswagen,2013,Vento,91.71k,Petrol,Manual,"9,466"," Amanora Mall apex building, Pune",2.85 lakh
+595, Honda,2016,City,89.77k,Petrol,Auto,"11,320"," Tathawade, Pune",5.79 lakh
+596, Datsun,2018,Redi,087.08k,Petrol,Manual,"4,027"," Amanora Mall apex building, Pune",2.06 lakh
+597, Tata,2016,Tiago,86.54k,Petrol,Manual,"6,549"," Amanora Mall apex building, Pune",3.35 lakh
+598, Volkswagen,2017,Ameo,86.16k,Petrol,Manual,"8,172"," Amanora Mall apex building, Pune",4.18 lakh
+599, Maruti,2016,Ciaz,86.00k,Diesel,Manual,"12,746"," Tathawade, Pune",5.73 lakh
+600, Hyundai,2014,Xcent,,Petrol,Manual,"8,290"," Amanora Mall apex building, Pune",3.15 lakh
+601, Honda,2015,City,,Petrol,Manual,"9,565"," Amanora Mall apex building, Pune",4.30 lakh
+602, Maruti,2018,Ciaz,,Petrol,Manual,"12,079"," Tathawade, Pune",5.43 lakh
+603, Honda,2018,Jazz,99.55k,Petrol,Auto,"8,113"," Amanora Mall apex building, Pune",4.15 lakh
+604, Honda,2015,Amaze,99.39k,CNG,Manual,"11,625"," Undri, Pune",3.50 lakh
+605, Tata,2018,Tiago,98.19k,Petrol,Manual,"7,038"," Amanora Mall apex building, Pune",3.60 lakh
+606, Honda,2015,City,96.21k,Petrol,Manual,"8,787"," Amanora Mall apex building, Pune",3.95 lakh
+607, Maruti,2014,Wagon,96.17k,CNG,Manual,"11,298"," Amanora Mall apex building, Pune",2.40 lakh
+608, Honda,2018,WR,94.44k,Petrol,Manual,"11,437"," Tathawade, Pune",5.85 lakh
+609, Hyundai,2016,Grand,94.02k,CNG,Manual,"9,170"," Tathawade, Pune",3.48 lakh
+610, Maruti,2014,Wagon,94.02k,Petrol,Manual,"7,426"," Tathawade, Pune",2.82 lakh
+611, Hyundai,2014,Xcent,93.16k,Petrol,Manual,"9,191"," Amanora Mall apex building, Pune",3.49 lakh
+612, Honda,2013,City,92.87k,Petrol,Manual,"11,293"," Tathawade, Pune",3.40 lakh
+613, Maruti,2016,Baleno,292.24k,CNG,Manual,"12,640"," Undri, Pune",4.80 lakh
+614, Volkswagen,2013,Vento,91.71k,Petrol,Manual,"9,466"," Amanora Mall apex building, Pune",2.85 lakh
+615, Honda,2016,City,89.77k,Petrol,Auto,"11,320"," Tathawade, Pune",5.79 lakh
+616, Datsun,2018,Redi,087.08k,Petrol,Manual,"4,027"," Amanora Mall apex building, Pune",2.06 lakh
+617, Tata,2016,Tiago,86.54k,Petrol,Manual,"6,549"," Amanora Mall apex building, Pune",3.35 lakh
+618, Volkswagen,2017,Ameo,86.16k,Petrol,Manual,"8,172"," Amanora Mall apex building, Pune",4.18 lakh
+619, Maruti,2016,Ciaz,86.00k,Diesel,Manual,"12,746"," Tathawade, Pune",5.73 lakh
+620, Maruti,2012,Wagon,74.44k,CNG,Manual,," Amanora Mall apex building, Pune",2.40 lakh
+621, Maruti,2013,Ritz,47.96k,Petrol,Manual,"8,569"," Amanora Mall apex building, Pune",2.58 lakh
+622, Hyundai,2013,i20,249.22k,Petrol,Manual,"11,957"," Tathawade, Pune",3.60 lakh
+623, Hyundai,2013,i20,239.23k,Petrol,Manual,"10,728"," Tathawade, Pune",3.23 lakh
+624, Honda,2013,City,92.87k,Petrol,Manual,"11,293"," Tathawade, Pune",3.40 lakh
+625, Maruti,2013,Ritz,79.52k,Petrol,Manual,"7,639"," Amanora Mall apex building, Pune",2.30 lakh
+626, Volkswagen,2013,Vento,91.71k,Petrol,Manual,"9,466"," Amanora Mall apex building, Pune",2.85 lakh
+627, Hyundai,2013,i20,226.56k,Petrol,Manual,"9,732"," Tathawade, Pune",2.93 lakh
+628, Maruti,2013,Ertiga,64.43k,Petrol,Manual,"15,279"," Tathawade, Pune",4.60 lakh
+629, Maruti,2014,Wagon,81.35k,Petrol,Manual,"7,031"," Tathawade, Pune",2.67 lakh
+630, Maruti,2014,Swift,77.65k,Petrol,Manual,"10,402"," Tathawade, Pune",3.95 lakh
+631, Hyundai,2014,Xcent,93.16k,Petrol,Manual,"9,191"," Amanora Mall apex building, Pune",3.49 lakh
+632, Hyundai,2014,Eon,48.45k,Petrol,Manual,"6,583"," Tathawade, Pune",2.50 lakh
+633, Maruti,2014,Wagon,96.17k,CNG,Manual,"11,298"," Amanora Mall apex building, Pune",2.40 lakh
+634, Maruti,2014,Swift,63.38k,Petrol,Manual,"9,796"," Tathawade, Pune",3.72 lakh
+635, Maruti,2014,Swift,50.74k,Petrol,Manual,"8,954"," Amanora Mall apex building, Pune",3.40 lakh
+636, Maruti,2014,Wagon,11.44k,Petrol,Manual,"7,452"," Tathawade, Pune",2.83 lakh
+637, Hyundai,2014,i10,132.31k,Petrol,Manual,"7,768"," Tathawade, Pune",2.95 lakh
+638, Honda,2014,Amaze,62.07k,Petrol,Manual,"8,427"," Tathawade, Pune",3.20 lakh
+639, Maruti,2014,Wagon,94.02k,Petrol,Manual,"7,426"," Tathawade, Pune",2.82 lakh
+640, Toyota,2013,Etios,70.07k,Petrol,Manual,"10,894"," Thiruverkadu, Chennai
+",3.28 lakh
+641, Maruti,2013,Wagon,25.65k,Petrol,Manual,"10,562"," Navalur, Chennai",3.18 lakh
+642, Hyundai,2013,Eon,76.65k,Petrol,Manual,"5,680"," Nexus Vijaya Mall, Vadapalani",1.71 lakh
+643, Hyundai,2014,i20,248.70k,Petrol,Manual,"9,796"," Nexus Vijaya Mall, Vadapalani",3.72 lakh
+644, Honda,2014,Amaze,42.04k,Petrol,Manual,"9,296"," Thiruverkadu, Chennai
+",3.53 lakh
+645, Hyundai,2014,Xcent,288.14k,Petrol,Manual,"7,900"," Thiruverkadu, Chennai
+",3.00 lakh
+646, Honda,2014,City,77.32k,Petrol,Auto,"13,141"," Navalur, Chennai",4.99 lakh
+647, Maruti,2014,Alto,97.47k,Petrol,Manual,"5,609"," Navalur, Chennai",2.13 lakh
+648, Hyundai,2014,i20,261.87k,Petrol,Manual,"10,007"," Navalur, Chennai",3.80 lakh
+649, Hyundai,2014,Grand,46.30k,Petrol,Manual,"9,401"," Nexus Vijaya Mall, Vadapalani",3.57 lakh
+650, Hyundai,2014,Grand,60.52k,Petrol,Manual,"8,453"," Navalur, Chennai",3.21 lakh
+651, Hyundai,2014,Xcent,295.53k,Petrol,Manual,"9,164"," Nexus Vijaya Mall, Vadapalani",3.48 lakh
+652, Hyundai,2014,Elite,279.38k,Petrol,Manual,"12,035"," Thiruverkadu, Chennai
+",4.57 lakh
+653, Honda,2015,City,52.51k,Petrol,Manual,"10,544"," Thiruverkadu, Chennai
+",4.74 lakh
+654, Hyundai,2015,Grand,88.21k,Petrol,Auto,"8,987"," Navalur, Chennai",4.04 lakh
+655, Ford,2015,Ecosport,76.69k,Petrol,Manual,"9,231"," Thiruverkadu, Chennai
+",4.15 lakh
+656, Honda,2015,City,87.98k,Petrol,Manual,"10,032"," Thiruverkadu, Chennai
+",4.51 lakh
+657, Honda,2015,Brio,87.84k,Petrol,Auto,"8,075"," Thiruverkadu, Chennai
+",3.63 lakh
+658, Hyundai,2015,i10,140.09k,Petrol,Manual,"7,096"," Nexus Vijaya Mall, Vadapalani",3.19 lakh
+659, Maruti,2015,Swift,98.72k,Petrol,Manual,"8,475"," Thiruverkadu, Chennai
+",3.81 lakh
+660, Hyundai,2024,EXTER,14.08k,Petrol,Auto,"15,684"," Nexus Vijaya Mall, Vadapalani",8.24 lakh
+661, Tata,2023,NEXON,7.06k,Petrol,Manual,"19,091"," Nexus Vijaya Mall, Vadapalani",10.03 lakh
+662, Renault,2023,Kwid,26.20k,Petrol,Auto,"10,107"," Navalur, Chennai",5.17 lakh
+663, Nissan,2023,MAGNITE,22.36k,Petrol,Manual,"11,887"," Navalur, Chennai",6.08 lakh
+664, KIA,2023,SELTOS,20.76k,Petrol,Manual,"22,251"," Thiruverkadu, Chennai
+",11.69 lakh
+665, Hyundai,2023,AURA,18.05k,CNG,Manual,"14,624"," Thiruverkadu, Chennai
+",7.48 lakh
+666, Maruti,2023,Baleno,17.40k,Petrol,Auto,"15,399"," Navalur, Chennai",8.09 lakh
+667, Hyundai,2023,GRAND,27.91k,Petrol,Manual,"13,314"," Nexus Vijaya Mall, Vadapalani",6.81 lakh
+668, Tata,2023,Tiago,13.20k,Petrol,Auto,"13,275"," Navalur, Chennai",6.79 lakh
+669, Tata,2023,TIGOR,33.46k,Petrol,Manual,"11,280"," Nexus Vijaya Mall, Vadapalani",5.77 lakh
+670, Maruti,2023,Alto,16.60k,Petrol,Manual,"8,934"," Nexus Vijaya Mall, Vadapalani",4.57 lakh
+671, Renault,2023,Kwid,017.43k,Petrol,Manual,"8,856"," Nexus Vijaya Mall, Vadapalani",4.53 lakh
+672, Nissan,2023,MAGNITE,18.00k,Petrol,Manual,"14,233"," Thiruverkadu, Chennai
+",7.28 lakh
+673, MG,2023,ASTOR,28.46k,Petrol,Auto,"28,665"," Thiruverkadu, Chennai
+",15.06 lakh
+674, MG,2023,ASTOR,20.79k,Petrol,Auto,"25,030"," Thiruverkadu, Chennai
+",13.15 lakh
+675, Maruti,2023,New,010.11k,Petrol,Manual,"11,593"," Nexus Vijaya Mall, Vadapalani",5.93 lakh
+676, Maruti,2023,Alto,27.45k,Petrol,Manual,"8,837"," Thiruverkadu, Chennai
+",4.52 lakh
+677, Tata,2023,PUNCH,17.24k,Petrol,Auto,"15,989"," Navalur, Chennai",8.40 lakh
+678, Renault,2023,Kwid,2.31k,Petrol,Auto,"10,049"," Navalur, Chennai",5.14 lakh
+679, Maruti,2023,Baleno,214.43k,Petrol,Manual,"15,608"," Nexus Vijaya Mall, Vadapalani",8.20 lakh
+680, Hyundai,2024,EXTER,14.08k,Petrol,Auto,"15,684"," Nexus Vijaya Mall, Vadapalani",8.24 lakh
+681, Tata,2023,NEXON,7.06k,Petrol,Manual,"19,091"," Nexus Vijaya Mall, Vadapalani",10.03 lakh
+682, Renault,2023,Kwid,26.20k,Petrol,Auto,"10,107"," Navalur, Chennai",5.17 lakh
+683, Nissan,2023,MAGNITE,22.36k,Petrol,Manual,"11,887"," Navalur, Chennai",6.08 lakh
+684, KIA,2023,SELTOS,20.76k,Petrol,Manual,"22,251"," Thiruverkadu, Chennai
+",11.69 lakh
+685, Hyundai,2023,AURA,18.05k,CNG,Manual,"14,624"," Thiruverkadu, Chennai
+",7.48 lakh
+686, Maruti,2023,Baleno,17.40k,Petrol,Auto,"15,399"," Navalur, Chennai",8.09 lakh
+687, Hyundai,2023,GRAND,27.91k,Petrol,Manual,"13,314"," Nexus Vijaya Mall, Vadapalani",6.81 lakh
+688, Tata,2023,Tiago,13.20k,Petrol,Auto,"13,275"," Navalur, Chennai",6.79 lakh
+689, Tata,2023,TIGOR,33.46k,Petrol,Manual,"11,280"," Nexus Vijaya Mall, Vadapalani",5.77 lakh
+690, Maruti,2023,Alto,16.60k,Petrol,Manual,"8,934"," Nexus Vijaya Mall, Vadapalani",4.57 lakh
+691, Renault,2023,Kwid,017.43k,Petrol,Manual,"8,856"," Nexus Vijaya Mall, Vadapalani",4.53 lakh
+692, Nissan,2023,MAGNITE,18.00k,Petrol,Manual,"14,233"," Thiruverkadu, Chennai
+",7.28 lakh
+693, MG,2023,ASTOR,28.46k,Petrol,Auto,"28,665"," Thiruverkadu, Chennai
+",15.06 lakh
+694, MG,2023,ASTOR,20.79k,Petrol,Auto,"25,030"," Thiruverkadu, Chennai
+",13.15 lakh
+695, Maruti,2023,New,010.11k,Petrol,Manual,"11,593"," Nexus Vijaya Mall, Vadapalani",5.93 lakh
+696, Maruti,2023,Alto,27.45k,Petrol,Manual,"8,837"," Thiruverkadu, Chennai
+",4.52 lakh
+697, Tata,2023,PUNCH,17.24k,Petrol,Auto,"15,989"," Navalur, Chennai",8.40 lakh
+698, Renault,2023,Kwid,2.31k,Petrol,Auto,"10,049"," Navalur, Chennai",5.14 lakh
+699, Maruti,2023,Baleno,214.43k,Petrol,Manual,"15,608"," Nexus Vijaya Mall, Vadapalani",8.20 lakh
+700, Renault,2023,Kwid,2.31k,Petrol,Auto,"10,049"," Navalur, Chennai",5.14 lakh
+701, Tata,2023,NEXON,7.06k,Petrol,Manual,"19,091"," Nexus Vijaya Mall, Vadapalani",10.03 lakh
+702, Hyundai,2021,VENUE,9.19k,Petrol,Manual,"15,015"," Navalur, Chennai",7.68 lakh
+703, Maruti,2023,New,010.11k,Petrol,Manual,"11,593"," Nexus Vijaya Mall, Vadapalani",5.93 lakh
+704, Maruti,2017,Alto,10.13k,Petrol,Auto,"6,295"," Navalur, Chennai",3.22 lakh
+705, Honda,2022,City,12.56k,Petrol,Manual,"18,768"," Nexus Vijaya Mall, Vadapalani",9.86 lakh
+706, Renault,2022,Kwid,12.59k,Petrol,Manual,"8,250"," Thiruverkadu, Chennai
+",4.22 lakh
+707, Renault,2022,Kwid,13.12k,Petrol,Auto,"9,971"," Nexus Vijaya Mall, Vadapalani",5.10 lakh
+708, Tata,2023,Tiago,13.20k,Petrol,Auto,"13,275"," Navalur, Chennai",6.79 lakh
+709, Hyundai,2024,EXTER,14.08k,Petrol,Auto,"15,684"," Nexus Vijaya Mall, Vadapalani",8.24 lakh
+710, Hyundai,2021,NEW,14.30k,Petrol,Auto,"15,246"," Nexus Vijaya Mall, Vadapalani",8.01 lakh
+711, Maruti,2023,Baleno,214.43k,Petrol,Manual,"15,608"," Nexus Vijaya Mall, Vadapalani",8.20 lakh
+712, Hyundai,2022,GRAND,14.64k,Petrol,Manual,"11,965"," Nexus Vijaya Mall, Vadapalani",6.12 lakh
+713, MG,2019,HECTOR,14.84k,Petrol,Auto,"23,850"," Nexus Vijaya Mall, Vadapalani",12.53 lakh
+714, Hyundai,2016,Grand,15.54k,Petrol,Auto,"8,348"," Thiruverkadu, Chennai
+",4.27 lakh
+715, Hyundai,2021,Creta,16.28k,Petrol,Auto,"24,668"," Nexus Vijaya Mall, Vadapalani",12.96 lakh
+716, Volkswagen,2021,TAIGUN,16.31k,Petrol,Manual,"21,204"," Thiruverkadu, Chennai
+",11.14 lakh
+717, Maruti,2023,Alto,16.60k,Petrol,Manual,"8,934"," Nexus Vijaya Mall, Vadapalani",4.57 lakh
+718, Hyundai,2021,NEW,16.88k,Petrol,Auto,"15,347"," Thiruverkadu, Chennai
+",7.85 lakh
+719, Hyundai,2020,AURA,217.10k,Petrol,Manual,"11,769"," Nexus Vijaya Mall, Vadapalani",6.02 lakh
+720, Mahindra,2022,XUV700,49.18k,Petrol,Auto,"38,335"," Thiruverkadu, Chennai
+",20.14 lakh
+721, MG,2023,ASTOR,28.46k,Petrol,Auto,"28,665"," Thiruverkadu, Chennai
+",15.06 lakh
+722, Hyundai,2022,Creta,40.39k,Petrol,Auto,"28,418"," Navalur, Chennai",14.93 lakh
+723, Hyundai,2022,Creta,62.37k,Diesel,Manual,"28,170"," Nexus Vijaya Mall, Vadapalani",14.80 lakh
+724, Hyundai,2022,Creta,34.60k,Petrol,Auto,"26,286"," Navalur, Chennai",13.81 lakh
+725, Hyundai,2021,ALCAZAR,21.19k,Petrol,Auto,"25,753"," Thiruverkadu, Chennai
+",13.53 lakh
+726, Skoda,2021,KUSHAQ,49.55k,Petrol,Auto,"25,106"," Thiruverkadu, Chennai
+",13.19 lakh
+727, MG,2023,ASTOR,20.79k,Petrol,Auto,"25,030"," Thiruverkadu, Chennai
+",13.15 lakh
+728, Hyundai,2021,Creta,16.28k,Petrol,Auto,"24,668"," Nexus Vijaya Mall, Vadapalani",12.96 lakh
+729, MG,2019,HECTOR,14.84k,Petrol,Auto,"23,850"," Nexus Vijaya Mall, Vadapalani",12.53 lakh
+730, MG,2020,HECTOR,36.54k,Petrol,Auto,"22,460"," Thiruverkadu, Chennai
+",11.80 lakh
+731, KIA,2023,SELTOS,20.76k,Petrol,Manual,"22,251"," Thiruverkadu, Chennai
+",11.69 lakh
+732, Skoda,2021,KUSHAQ,46.25k,Petrol,Auto,"21,908"," Nexus Vijaya Mall, Vadapalani",11.51 lakh
+733, Volkswagen,2022,TAIGUN,57.25k,Petrol,Auto,"21,794"," Navalur, Chennai",11.45 lakh
+734, Maruti,2022,XL6,42.65k,Petrol,Manual,"21,528"," Nexus Vijaya Mall, Vadapalani",11.31 lakh
+735, KIA,2020,SELTOS,69.55k,Diesel,Auto,"21,509"," Navalur, Chennai",11.30 lakh
+736, KIA,2021,SELTOS,55.79k,Diesel,Auto,"21,413"," Thiruverkadu, Chennai
+",11.25 lakh
+737, Volkswagen,2021,TAIGUN,16.31k,Petrol,Manual,"21,204"," Thiruverkadu, Chennai
+",11.14 lakh
+738, KIA,2021,SELTOS,52.43k,Diesel,Manual,"21,071"," Nexus Vijaya Mall, Vadapalani",11.07 lakh
+739, KIA,2020,SONET,38.49k,Diesel,Auto,"20,176"," Thiruverkadu, Chennai
+",10.60 lakh
+740, Hyundai,2013,Eon,76.65k,Petrol,Manual,"5,680"," Nexus Vijaya Mall, Vadapalani",1.71 lakh
+741, Maruti,2014,Alto,97.47k,Petrol,Manual,"5,609"," Navalur, Chennai",2.13 lakh
+742, Datsun,2018,Redi,52.78k,Petrol,Manual,"4,321"," Nexus Vijaya Mall, Vadapalani",2.21 lakh
+743, Maruti,2016,Alto,43.87k,Petrol,Manual,"4,985"," Thiruverkadu, Chennai
+",2.55 lakh
+744, Maruti,2016,Alto,18.69k,Petrol,Manual,"5,357"," Nexus Vijaya Mall, Vadapalani",2.74 lakh
+745, Maruti,2017,Alto,30.31k,Petrol,Manual,"5,415"," Thiruverkadu, Chennai
+",2.77 lakh
+746, Renault,2016,Kwid,880.28k,Petrol,Manual,"5,513"," Navalur, Chennai",2.82 lakh
+747, Hyundai,2014,Xcent,288.14k,Petrol,Manual,"7,900"," Thiruverkadu, Chennai
+",3.00 lakh
+748, Maruti,2018,Alto,36.30k,Petrol,Manual,"6,080"," Nexus Vijaya Mall, Vadapalani",3.11 lakh
+749, Renault,2018,Kwid,50.24k,Petrol,Manual,"6,100"," Thiruverkadu, Chennai
+",3.12 lakh
+750, Maruti,2020,Alto,93.70k,Petrol,Manual,"6,100"," Thiruverkadu, Chennai
+",3.12 lakh
+751, Renault,2017,Kwid,65.10k,Petrol,Auto,"6,178"," Thiruverkadu, Chennai
+",3.16 lakh
+752, Maruti,2013,Wagon,25.65k,Petrol,Manual,"10,562"," Navalur, Chennai",3.18 lakh
+753, Hyundai,2015,i10,140.09k,Petrol,Manual,"7,096"," Nexus Vijaya Mall, Vadapalani",3.19 lakh
+754, Hyundai,2014,Grand,60.52k,Petrol,Manual,"8,453"," Navalur, Chennai",3.21 lakh
+755, Maruti,2017,Alto,10.13k,Petrol,Auto,"6,295"," Navalur, Chennai",3.22 lakh
+756, Maruti,2015,Celerio,94.34k,Petrol,Manual,"7,274"," Navalur, Chennai",3.27 lakh
+757, Toyota,2013,Etios,70.07k,Petrol,Manual,"10,894"," Thiruverkadu, Chennai
+",3.28 lakh
+758, Hyundai,2015,i10,162.24k,Petrol,Manual,"7,341"," Navalur, Chennai",3.30 lakh
+759, Hyundai,2015,Grand,24.14k,Petrol,Manual,"7,407"," Navalur, Chennai",3.33 lakh
